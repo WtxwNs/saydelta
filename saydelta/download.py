@@ -1,5 +1,6 @@
 """Explicit, bounded model retrieval via verified HTTPS, without credentials."""
 
+import http.client
 import json
 import time
 import urllib.error
@@ -51,7 +52,7 @@ def fetch_model(destination, progress=print):
                 completed.append(name)
                 failure = None
                 break
-            except (OSError, ValueError) as exc:
+            except (OSError, ValueError, http.client.HTTPException) as exc:
                 failure = exc
                 partial.unlink(missing_ok=True)
                 if attempt < 2:

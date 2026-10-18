@@ -1,3 +1,4 @@
+import http.client
 import io
 import urllib.error
 
@@ -48,3 +49,22 @@ def test_download_failure_is_bounded_and_preserves_existing_files(tmp_path, monk
     with pytest.raises(ValueError, match="not empty"):
         fetch_model(tmp_path)
     assert keep.read_text() == "existing work" and len(calls) == 3
+
+
+def test_interrupted_chunked_response_is_reported_without_traceback(tmp_path, monkeypatch):
+    class Interrupted(Response):
+        def read(self, size=-1):
+            raise http.client.IncompleteRead(b"partial data", 100)
+
+    calls = []
+
+    def retrieve(request, timeout):
+        calls.append(request.full_url)
+        return Interrupted(b"")
+
+    monkeypatch.setattr("saydelta.download.urllib.request.urlopen", retrieve)
+    monkeypatch.setattr("saydelta.download.time.sleep", lambda seconds: None)
+    with pytest.raises(ValueError, match="after 3 attempts"):
+        fetch_model(tmp_path, progress=lambda message: None)
+    assert len(calls) == 3
+    assert not list(tmp_path.iterdir())
