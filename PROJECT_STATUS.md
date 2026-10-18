@@ -1,6 +1,6 @@
 # Saydelta project status
 
-Updated 2026-10-19. Overall goal ACTIVE. Windows pre-release engineering path verified; public release and user adoption NOT verified.
+Updated 2026-10-19. Overall goal awaiting publication authorization; not achieved. Windows pre-release engineering path verified; public release and user adoption NOT verified.
 
 ## Current product and claim
 For creators reviewing ordinary-vocabulary synthesized English voiceovers, Saydelta turns script/recognition differences into timed listening and decisions in one offline HTML file. Costs: a ~484 MB model download, local processing, and human judgment. Detection itself is not exclusive: a transcript diff or TTSProof with WER threshold zero can flag the same words. The distinct workflow is passage audition, retained evidence, notes and portable review of existing recordings.
@@ -27,3 +27,5 @@ No external user trial, repeat use, sharing or contribution observed. Next usefu
 
 ## Authorization-wait audit
 Previous goal turn made substantive progress: completed release preparation and requested publication authorization. This continuation found and reproduced an uncaught HTTP IncompleteRead download failure, fixed bounded retries/partial cleanup, and passed the added regression. No publication reply or outreach authorization received. Public release and actual-user evidence remain the same external dependency; the goal is not complete.
+
+Final blocked audit: the same missing publication authorization has persisted across the release-preparation turn and two automatic continuations. The previous continuation made progress by fixing the download failure. This continuation confirmed a clean Git state, current release artifacts, no public repository at the proposed destination, and a completed independent reviewer with no demonstrated engineering blocker within tested scope. No human authorization arrived. There is no pending engineering job whose completion can supply real-user evidence. Further publication or outreach requires user input; do not treat automatic goal continuations as consent. Mark the goal blocked pending that authorization, not complete.
