@@ -1,0 +1,50 @@
+[build-system]
+requires = ["hatchling>=1.26,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "saydelta"
+version = "0.1.0"
+description = "Turn a script and a recording into a local, playable discrepancy review."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = [
+  "rapidfuzz>=3.14,<4",
+  "num2words==0.5.14",
+  "whisper-normalizer==0.1.15",
+  "av==16.1.0",
+  "numpy>=1.26,<3",
+]
+
+[project.optional-dependencies]
+asr = ["faster-whisper==1.2.1"]
+dev = ["pytest>=8,<10", "ruff>=0.11,<1", "build>=1,<2"]
+
+[project.scripts]
+saydelta = "saydelta.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["saydelta"]
+
+[tool.hatch.build.targets.sdist]
+include = [
+  "/saydelta", "/tests", "/examples/garden.wav", "/examples/garden.txt",
+  "/examples/edits.json", "/examples/garden-review-v2.html",
+  "/docs/*.md", "/docs/review-*.png", "/docs/demo-frames", "/docs/walkthrough.mp4",
+  "/README.md", "/LICENSE", "/THIRD_PARTY.md", "/CONTRIBUTING.md",
+  "/RELEASE_NOTES.md", "/PROJECT_STATUS.md", "/pyproject.toml", "/.gitignore",
+  "/research/*.py", "/research/sources.md", "/research/validation-plan.md",
+  "/research/corpus.json", "/research/holdout.json", "/research/confirmation.json",
+  "/research/*-manifest.json", "/research/product-*.json", "/research/ttsproof-baseline*.json",
+  "/research/long-*.json", "/research/independent-review.md",
+  "/research/decision-log.md", "/research/recheck-*.json", "/research/evaluation*.json",
+  "/research/probe-results*.json", "/research/trending*.json",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

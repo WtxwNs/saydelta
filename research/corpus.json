@@ -1,0 +1,44 @@
+[
+  {
+    "id": "garden",
+    "sentences": [
+      "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden.",
+      "Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels.",
+      "The first job was to clear the stones from the narrow strip of land beside the fence.",
+      "They agreed to leave the wild flowers near the gate because bees were already visiting them.",
+      "Each household would look after one small bed and help water the shared fruit trees during the summer.",
+      "Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs.",
+      "By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas.",
+      "Nobody expected a harvest that day, but everyone went home with a reason to come back the following week."
+    ],
+    "change": {"sentence": 4, "old": "one", "new": "two"}
+  },
+  {
+    "id": "museum",
+    "sentences": [
+      "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them.",
+      "The blue cup in the first cabinet was discovered beneath the floor of a village bakery.",
+      "Its handle was broken, but the painted pattern survived more than a century of dust and damp.",
+      "A volunteer carefully photographed every piece before the conservation team began putting them back together.",
+      "The repair took twelve days, including long periods when the glue had to dry without being disturbed.",
+      "You can see a thin line near the base where a missing piece was replaced with plain material.",
+      "The team chose to make the repair visible so that visitors could distinguish the original object from modern work.",
+      "At the end of the gallery, a short film explains how the same approach protects much larger objects."
+    ],
+    "change": {"sentence": 1, "old": "blue", "new": "green"}
+  },
+  {
+    "id": "backup",
+    "sentences": [
+      "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else.",
+      "Start with the documents folder, but remember that some applications keep their projects in a separate location.",
+      "Copy the files to an external drive and wait until the transfer has finished before disconnecting it.",
+      "Open several copied files on another computer to check that they can actually be read.",
+      "A progress bar reaching the end does not prove that every photograph or spreadsheet is usable.",
+      "Write down any software licenses and make sure you can sign in to the accounts you will need later.",
+      "Keep the original computer unchanged until the new one is working and you have checked your most important tasks.",
+      "This short rehearsal is usually easier than discovering a missing project after the old drive has been erased."
+    ],
+    "change": {"sentence": 6, "old": "unchanged", "new": "disconnected"}
+  }
+]

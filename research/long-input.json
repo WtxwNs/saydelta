@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "garden-af_heart-clean",
+    "garden-am_michael-clean",
+    "museum-af_heart-clean",
+    "museum-am_michael-clean",
+    "backup-af_heart-clean",
+    "backup-am_michael-clean",
+    "lighthouse-bf_emma-clean",
+    "lighthouse-af_sky-clean",
+    "library-bf_emma-clean",
+    "library-af_sky-clean",
+    "weatherstation-am_adam-clean",
+    "weatherstation-af_nicole-clean",
+    "weatherstation-bm_george-clean"
+  ],
+  "change": "First garden clip replaced with garden-af_heart-omission",
+  "duration": 996.2753333333334,
+  "pause_seconds": 0.5
+}

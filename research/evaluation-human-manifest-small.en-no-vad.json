@@ -1,0 +1,466 @@
+{
+  "model": "small.en-no-vad",
+  "defects_found": 3,
+  "defects_total": 3,
+  "clean_suspects": 24,
+  "clean_minutes": 3.8748322916666664,
+  "max_review_fraction": 0.5566434849495261,
+  "results": [
+    {
+      "id": "human-0-clean",
+      "kind": "clean",
+      "hit": null,
+      "duration": 112.255,
+      "review_fraction": 0.4190459222306357,
+      "findings": [
+        {
+          "kind": "replacement",
+          "expected": "MISTER",
+          "heard": "Mr",
+          "script_start": 0,
+          "script_end": 6,
+          "start": 0,
+          "end": 2.3
+        },
+        {
+          "kind": "replacement",
+          "expected": "MISTER",
+          "heard": "Mr",
+          "script_start": 98,
+          "script_end": 104,
+          "start": 5.62,
+          "end": 8.940000000000001
+        },
+        {
+          "kind": "replacement",
+          "expected": "LEIGHTON'S",
+          "heard": "Layton's",
+          "script_start": 372,
+          "script_end": 382,
+          "start": 25.16,
+          "end": 28.7
+        },
+        {
+          "kind": "replacement",
+          "expected": "LINNELL'S",
+          "heard": "Lenell's",
+          "script_start": 465,
+          "script_end": 474,
+          "start": 33.18,
+          "end": 36.7
+        },
+        {
+          "kind": "replacement",
+          "expected": "AT EM",
+          "heard": "adam",
+          "script_start": 512,
+          "script_end": 517,
+          "start": 36.28,
+          "end": 39.62
+        },
+        {
+          "kind": "replacement",
+          "expected": "IDYLLS",
+          "heard": "ittles",
+          "script_start": 550,
+          "script_end": 556,
+          "start": 39.14,
+          "end": 42.62
+        },
+        {
+          "kind": "replacement",
+          "expected": "MISTER BIRKET",
+          "heard": "Mr. Burkett",
+          "script_start": 589,
+          "script_end": 602,
+          "start": 44.06,
+          "end": 47.68
+        },
+        {
+          "kind": "replacement",
+          "expected": "MISTER CARKER",
+          "heard": "Mr. Karker",
+          "script_start": 662,
+          "script_end": 675,
+          "start": 48.46,
+          "end": 52.26
+        },
+        {
+          "kind": "replacement",
+          "expected": "MISTER",
+          "heard": "Mr",
+          "script_start": 704,
+          "script_end": 710,
+          "start": 52.48,
+          "end": 55.72
+        },
+        {
+          "kind": "replacement",
+          "expected": "IN",
+          "heard": "an",
+          "script_start": 924,
+          "script_end": 926,
+          "start": 69.48,
+          "end": 72.84
+        },
+        {
+          "kind": "replacement",
+          "expected": "PRINCIPLES OF ART MISTER QUILTER WRITES WITH EQUAL LUCIDITY. PAINTING HE TELLS US IS OF",
+          "heard": "days of",
+          "script_start": 954,
+          "script_end": 1041,
+          "start": 79.24,
+          "end": 83.06
+        },
+        {
+          "kind": "replacement",
+          "expected": "FACT",
+          "heard": "factor",
+          "script_start": 1110,
+          "script_end": 1114,
+          "start": 85.56,
+          "end": 89.04
+        },
+        {
+          "kind": "replacement",
+          "expected": "THE",
+          "heard": "a",
+          "script_start": 1294,
+          "script_end": 1297,
+          "start": 101.3,
+          "end": 104.5
+        },
+        {
+          "kind": "replacement",
+          "expected": "MICHAEL ANGELO",
+          "heard": "Michelangelo",
+          "script_start": 1381,
+          "script_end": 1395,
+          "start": 106.64,
+          "end": 110.56
+        }
+      ],
+      "seconds": 11.171999999904074
+    },
+    {
+      "id": "human-0-omission",
+      "kind": "omission",
+      "hit": true,
+      "duration": 82.605,
+      "review_fraction": 0.4050602263785486,
+      "findings": [
+        {
+          "kind": "replacement",
+          "expected": "MISTER",
+          "heard": "Mr",
+          "script_start": 0,
+          "script_end": 6,
+          "start": 0,
+          "end": 2.3
+        },
+        {
+          "kind": "replacement",
+          "expected": "MISTER",
+          "heard": "Mr",
+          "script_start": 98,
+          "script_end": 104,
+          "start": 5.62,
+          "end": 8.940000000000001
+        },
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "mind",
+          "script_start": 330,
+          "script_end": 330,
+          "start": 21.52,
+          "end": 24.72
+        },
+        {
+          "kind": "replacement",
+          "expected": "LEIGHTON'S",
+          "heard": "Layton's",
+          "script_start": 372,
+          "script_end": 382,
+          "start": 25.14,
+          "end": 28.7
+        },
+        {
+          "kind": "omission",
+          "expected": "LINNELL'S PICTURES ARE A SORT OF UP GUARDS AND AT EM PAINTINGS AND MASON'S EXQUISITE IDYLLS ARE AS NATIONAL AS A JINGO POEM MISTER BIRKET FOSTER'S LANDSCAPES SMILE AT ONE MUCH IN THE SAME WAY THAT MISTER CARKER USED TO FLASH HIS TEETH AND MISTER JOHN COLLIER GIVES HIS SITTER A CHEERFUL SLAP ON THE BACK BEFORE HE SAYS LIKE A SHAMPOOER IN A TURKISH BATH NEXT MAN",
+          "heard": "",
+          "script_start": 465,
+          "script_end": 827,
+          "start": 31.560000000000002,
+          "end": 35.5
+        },
+        {
+          "kind": "replacement",
+          "expected": "IN",
+          "heard": "an",
+          "script_start": 924,
+          "script_end": 926,
+          "start": 39.84,
+          "end": 43.2
+        },
+        {
+          "kind": "replacement",
+          "expected": "MISTER",
+          "heard": "Mr",
+          "script_start": 972,
+          "script_end": 978,
+          "start": 44.2,
+          "end": 47.400000000000006
+        },
+        {
+          "kind": "replacement",
+          "expected": "FACT",
+          "heard": "factor",
+          "script_start": 1110,
+          "script_end": 1114,
+          "start": 55.92,
+          "end": 59.4
+        },
+        {
+          "kind": "replacement",
+          "expected": "THE",
+          "heard": "a",
+          "script_start": 1294,
+          "script_end": 1297,
+          "start": 71.64,
+          "end": 74.84
+        },
+        {
+          "kind": "replacement",
+          "expected": "MICHAEL ANGELO",
+          "heard": "Michelangelo",
+          "script_start": 1381,
+          "script_end": 1395,
+          "start": 77.02,
+          "end": 80.92
+        }
+      ],
+      "seconds": 8.609000000054948
+    },
+    {
+      "id": "human-1-clean",
+      "kind": "clean",
+      "hit": null,
+      "duration": 63.32,
+      "review_fraction": 0.15476942514213524,
+      "findings": [
+        {
+          "kind": "replacement",
+          "expected": "WERE",
+          "heard": "are",
+          "script_start": 12,
+          "script_end": 16,
+          "start": 0,
+          "end": 2.6
+        },
+        {
+          "kind": "replacement",
+          "expected": "HAS FLED IN",
+          "heard": "is flood and",
+          "script_start": 557,
+          "script_end": 568,
+          "start": 38.44,
+          "end": 42.12
+        },
+        {
+          "kind": "replacement",
+          "expected": "RUGGEDO",
+          "heard": "Ruggado",
+          "script_start": 624,
+          "script_end": 631,
+          "start": 43.0,
+          "end": 46.52
+        }
+      ],
+      "seconds": 7.422000000020489
+    },
+    {
+      "id": "human-1-omission",
+      "kind": "omission",
+      "hit": true,
+      "duration": 58.845,
+      "review_fraction": 0.11691732517631054,
+      "findings": [
+        {
+          "kind": "replacement",
+          "expected": "WERE",
+          "heard": "are",
+          "script_start": 12,
+          "script_end": 16,
+          "start": 0,
+          "end": 2.6
+        },
+        {
+          "kind": "replacement",
+          "expected": "THE KING HAS FLED IN DISGRACE AND YOUR FRIENDS ARE ASKING FOR YOU. I BEGGED RUGGEDO",
+          "heard": "I begged Ruggido",
+          "script_start": 548,
+          "script_end": 631,
+          "start": 37.760000000000005,
+          "end": 42.04
+        }
+      ],
+      "seconds": 7.468999999924563
+    },
+    {
+      "id": "human-2-clean",
+      "kind": "clean",
+      "hit": null,
+      "duration": 56.9149375,
+      "review_fraction": 0.4891510247200043,
+      "findings": [
+        {
+          "kind": "replacement",
+          "expected": "KALIKO. KALIKO",
+          "heard": "Calico. Calico",
+          "script_start": 87,
+          "script_end": 101,
+          "start": 4.84,
+          "end": 10.0
+        },
+        {
+          "kind": "replacement",
+          "expected": "ANN",
+          "heard": "Anne",
+          "script_start": 281,
+          "script_end": 284,
+          "start": 23.34,
+          "end": 26.74
+        },
+        {
+          "kind": "replacement",
+          "expected": "KALIKO. KALIKO",
+          "heard": "Calico. Calico",
+          "script_start": 376,
+          "script_end": 390,
+          "start": 31.72,
+          "end": 36.82
+        },
+        {
+          "kind": "replacement",
+          "expected": "RUGGEDO",
+          "heard": "Ruggido",
+          "script_start": 438,
+          "script_end": 445,
+          "start": 36.74,
+          "end": 39.96
+        },
+        {
+          "kind": "replacement",
+          "expected": "KALIKO",
+          "heard": "Calico",
+          "script_start": 526,
+          "script_end": 532,
+          "start": 43.52,
+          "end": 46.74
+        },
+        {
+          "kind": "replacement",
+          "expected": "RUGGEDO'S",
+          "heard": "Ruggido's",
+          "script_start": 591,
+          "script_end": 600,
+          "start": 47.46,
+          "end": 51.16
+        },
+        {
+          "kind": "replacement",
+          "expected": "SCEPTRE WHICH RUGGEDO",
+          "heard": "scepter which Regano",
+          "script_start": 650,
+          "script_end": 671,
+          "start": 51.26,
+          "end": 55.38
+        }
+      ],
+      "seconds": 7.01500000001397
+    },
+    {
+      "id": "human-2-omission",
+      "kind": "omission",
+      "hit": true,
+      "duration": 53.1399375,
+      "review_fraction": 0.5566434849495261,
+      "findings": [
+        {
+          "kind": "replacement",
+          "expected": "KALIKO. KALIKO",
+          "heard": "Calico. Calico",
+          "script_start": 87,
+          "script_end": 101,
+          "start": 4.84,
+          "end": 10.0
+        },
+        {
+          "kind": "omission",
+          "expected": "THAT'S FUNNY REMARKED BETSY THOUGHTFULLY",
+          "heard": "",
+          "script_start": 223,
+          "script_end": 263,
+          "start": 17.82,
+          "end": 21.7
+        },
+        {
+          "kind": "replacement",
+          "expected": "ANN",
+          "heard": "Anne",
+          "script_start": 281,
+          "script_end": 284,
+          "start": 19.58,
+          "end": 22.94
+        },
+        {
+          "kind": "replacement",
+          "expected": "KALIKO. KALIKO",
+          "heard": "Calico. Calico",
+          "script_start": 376,
+          "script_end": 390,
+          "start": 27.96,
+          "end": 33.08
+        },
+        {
+          "kind": "replacement",
+          "expected": "RUGGEDO",
+          "heard": "Ruggato",
+          "script_start": 438,
+          "script_end": 445,
+          "start": 32.94,
+          "end": 36.18
+        },
+        {
+          "kind": "replacement",
+          "expected": "KALIKO",
+          "heard": "Calico",
+          "script_start": 526,
+          "script_end": 532,
+          "start": 39.74,
+          "end": 43.02
+        },
+        {
+          "kind": "replacement",
+          "expected": "RUGGEDO'S",
+          "heard": "Ruggato's",
+          "script_start": 591,
+          "script_end": 600,
+          "start": 43.72,
+          "end": 47.38
+        },
+        {
+          "kind": "replacement",
+          "expected": "SCEPTRE WHICH RUGGEDO",
+          "heard": "scepter which Regano",
+          "script_start": 650,
+          "script_end": 671,
+          "start": 47.46,
+          "end": 51.6
+        }
+      ],
+      "seconds": 7.032000000006519
+    }
+  ]
+}

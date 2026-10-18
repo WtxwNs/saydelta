@@ -1,0 +1,21 @@
+{
+  "method": "Controlled edits, not natural TTS failures",
+  "voice": "Kokoro af_heart",
+  "sentence_order_zero_based": [
+    0,
+    1,
+    2,
+    4,
+    5,
+    5,
+    6,
+    7
+  ],
+  "omitted": "They agreed to leave the wild flowers near the gate because bees were already visiting them.",
+  "repeated": "Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs.",
+  "replaced": {
+    "expected": "one",
+    "heard": "two",
+    "sentence": 4
+  }
+}

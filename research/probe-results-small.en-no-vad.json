@@ -1,0 +1,297 @@
+[
+  {
+    "id": "weatherstation-am_adam-clean",
+    "duration": 104.44933333333333,
+    "asr_seconds": 9.547000000020489,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "helped",
+        "heard": "help",
+        "start": 5.04,
+        "end": 8.32
+      }
+    ],
+    "fault": null
+  },
+  {
+    "id": "weatherstation-am_adam-omission",
+    "duration": 97.47933333333333,
+    "asr_seconds": 8.781000000075437,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "helped",
+        "heard": "help",
+        "start": 5.04,
+        "end": 8.32
+      },
+      {
+        "kind": "delete",
+        "expected": "every morning a different pair of students checks the equipment and compares the latest readings with the notes from the previous day",
+        "heard": "",
+        "start": 18.02,
+        "end": 21.58
+      }
+    ],
+    "fault": {
+      "start": 20.05666666666667,
+      "end": 20.05666666666667,
+      "expected": "Every morning, a different pair of students checks the equipment and compares the latest readings with the notes from the previous day.",
+      "heard": ""
+    }
+  },
+  {
+    "id": "weatherstation-am_adam-repetition",
+    "duration": 112.102,
+    "asr_seconds": 10.75,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "helped",
+        "heard": "help",
+        "start": 5.04,
+        "end": 8.32
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "one bright afternoon can follow a week of heavy rain and a cold morning does not necessarily mean that the whole month has been cold",
+        "start": 32.74,
+        "end": 42.78
+      }
+    ],
+    "fault": {
+      "start": 41.756,
+      "end": 49.40866666666667,
+      "expected": "",
+      "heard": "One bright afternoon can follow a week of heavy rain, and a cold morning does not necessarily mean that the whole month has been cold."
+    }
+  },
+  {
+    "id": "weatherstation-am_adam-substitution",
+    "duration": 104.40666666666667,
+    "asr_seconds": 9.186999999918044,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "helped",
+        "heard": "help",
+        "start": 5.04,
+        "end": 8.32
+      },
+      {
+        "kind": "replace",
+        "expected": "six",
+        "heard": "nine",
+        "start": 64.2,
+        "end": 67.5
+      }
+    ],
+    "fault": {
+      "start": 65.46066666666667,
+      "end": 72.94266666666667,
+      "expected": "six",
+      "heard": "nine"
+    }
+  },
+  {
+    "id": "weatherstation-af_nicole-clean",
+    "duration": 170.668,
+    "asr_seconds": 14.922000000020489,
+    "findings": [
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "powers",
+        "start": 168.14,
+        "end": 170.668
+      }
+    ],
+    "fault": null
+  },
+  {
+    "id": "weatherstation-af_nicole-omission",
+    "duration": 158.706,
+    "asr_seconds": 10.60999999998603,
+    "findings": [
+      {
+        "kind": "delete",
+        "expected": "every morning a different pair of students checks the equipment and compares the latest readings with the notes from the previous day",
+        "heard": "",
+        "start": 29.5,
+        "end": 33.04
+      }
+    ],
+    "fault": {
+      "start": 31.619333333333334,
+      "end": 31.619333333333334,
+      "expected": "Every morning, a different pair of students checks the equipment and compares the latest readings with the notes from the previous day.",
+      "heard": ""
+    }
+  },
+  {
+    "id": "weatherstation-af_nicole-repetition",
+    "duration": 184.102,
+    "asr_seconds": 12.327999999979511,
+    "findings": [
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "one bright afternoon can follow a week of heavy rain and a cold morning does not necessarily mean that the whole month has been cold",
+        "start": 67.2,
+        "end": 83.2
+      }
+    ],
+    "fault": {
+      "start": 68.7,
+      "end": 82.134,
+      "expected": "",
+      "heard": "One bright afternoon can follow a week of heavy rain, and a cold morning does not necessarily mean that the whole month has been cold."
+    }
+  },
+  {
+    "id": "weatherstation-af_nicole-substitution",
+    "duration": 170.604,
+    "asr_seconds": 11.047000000020489,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "six",
+        "heard": "nine",
+        "start": 106.32,
+        "end": 109.62
+      }
+    ],
+    "fault": {
+      "start": 107.53,
+      "end": 119.47066666666667,
+      "expected": "six",
+      "heard": "nine"
+    }
+  },
+  {
+    "id": "weatherstation-bm_george-clean",
+    "duration": 122.64666666666666,
+    "asr_seconds": 10.23499999998603,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "helped",
+        "heard": "help",
+        "start": 6.06,
+        "end": 9.4
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "readings",
+        "start": 26.56,
+        "end": 30.02
+      }
+    ],
+    "fault": null
+  },
+  {
+    "id": "weatherstation-bm_george-omission",
+    "duration": 114.418,
+    "asr_seconds": 9.984000000054948,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "helped",
+        "heard": "help",
+        "start": 6.06,
+        "end": 9.379999999999999
+      },
+      {
+        "kind": "delete",
+        "expected": "every morning a different pair of students checks the equipment and compares the latest readings with the notes from the previous day",
+        "heard": "",
+        "start": 21.06,
+        "end": 24.6
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "thank you for watching and i'll see you next time",
+        "start": 112.3,
+        "end": 114.418
+      }
+    ],
+    "fault": {
+      "start": 23.171333333333333,
+      "end": 23.171333333333333,
+      "expected": "Every morning, a different pair of students checks the equipment and compares the latest readings with the notes from the previous day.",
+      "heard": ""
+    }
+  },
+  {
+    "id": "weatherstation-bm_george-repetition",
+    "duration": 131.89933333333335,
+    "asr_seconds": 10.483999999938533,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "helped",
+        "heard": "help",
+        "start": 6.06,
+        "end": 9.4
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "readings",
+        "start": 27.02,
+        "end": 30.22
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "one bright afternoon can follow a week of heavy rain and a cold morning does not necessarily mean that the whole month has been cold",
+        "start": 38.7,
+        "end": 50.4
+      }
+    ],
+    "fault": {
+      "start": 49.41466666666667,
+      "end": 58.66733333333333,
+      "expected": "",
+      "heard": "One bright afternoon can follow a week of heavy rain, and a cold morning does not necessarily mean that the whole month has been cold."
+    }
+  },
+  {
+    "id": "weatherstation-bm_george-substitution",
+    "duration": 122.62533333333333,
+    "asr_seconds": 10.422000000020489,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "helped",
+        "heard": "help",
+        "start": 6.06,
+        "end": 9.4
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "readings",
+        "start": 27.02,
+        "end": 30.22
+      },
+      {
+        "kind": "replace",
+        "expected": "six",
+        "heard": "nine",
+        "start": 76.28,
+        "end": 79.58
+      }
+    ],
+    "fault": {
+      "start": 77.53533333333333,
+      "end": 86.276,
+      "expected": "six",
+      "heard": "nine"
+    }
+  }
+]

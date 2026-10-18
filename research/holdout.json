@@ -1,0 +1,34 @@
+[
+  {
+    "id": "lighthouse",
+    "sentences": [
+      "The lighthouse stands on a low island, close enough to see from the harbor but far enough away to feel separate from the town.",
+      "Visitors cross by boat in the morning, carrying warm jackets even when the weather on the mainland seems calm and bright.",
+      "Inside the entrance, a small exhibition explains how the keepers once carried heavy cans of fuel up the narrow stone staircase.",
+      "The original lamp was replaced with an electric light, but the old brass mechanism remains on display beside a working model.",
+      "The guide asks everyone to climb in groups of four and leave enough space for people coming back down from the viewing platform.",
+      "From the top, fishing boats look like small marks on a sheet of glass, while the hills behind the town fade into the afternoon haze.",
+      "A sign beside the window describes the winter storm that damaged the landing steps and kept the relief crew away for several days.",
+      "Today the light operates automatically, and visiting technicians check the equipment at regular intervals throughout the year.",
+      "Before leaving, most visitors stop at the sheltered side of the island to eat lunch and watch the birds nesting between the rocks.",
+      "The return boat leaves at a fixed time, so the guide counts the passengers carefully and checks every room before locking the door."
+    ],
+    "change": {"sentence": 4, "old": "four", "new": "five"}
+  },
+  {
+    "id": "library",
+    "sentences": [
+      "A library of useful objects began with a simple question: why should every household buy a tool that it only needs once a year?",
+      "The organizers started with a folding table, a collection of donated equipment, and a notebook for recording who had borrowed each item.",
+      "At first, most requests were for ladders and gardening tools, but the collection soon expanded to include sewing machines and camping equipment.",
+      "Every returned item is checked by a volunteer, cleaned if necessary, and placed in a clearly marked area before it can be borrowed again.",
+      "Members receive a short explanation of how the equipment works, along with written instructions and a list of the parts that should come back.",
+      "A damaged cable or missing safety cover means that an item is taken out of service until someone qualified has repaired and inspected it.",
+      "The borrowing fee pays for replacement parts and insurance, while a separate fund helps people who cannot afford the annual membership.",
+      "On busy weekends, volunteers offer simple repair lessons so that members can learn how to maintain objects they already own.",
+      "The library has become more than a storage room, because people often arrive with questions and leave with advice from a neighbor.",
+      "Its success depends less on the number of objects on the shelves than on whether those objects are useful, safe, and available when needed."
+    ],
+    "change": {"sentence": 6, "old": "annual", "new": "monthly"}
+  }
+]

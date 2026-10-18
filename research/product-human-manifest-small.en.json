@@ -1,0 +1,711 @@
+[
+  {
+    "id": "human-0-clean",
+    "duration": 112.255,
+    "kind": "clean",
+    "fault": null,
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "LEIGHTON'S",
+        "heard": "Layton's",
+        "script_start": 372,
+        "script_end": 382,
+        "start": 25.16,
+        "end": 28.7,
+        "status": "review",
+        "recheck": {
+          "start": 20.16,
+          "end": 33.7,
+          "expected_context": "has grave doubts whether sir frederick leighton's work is really greek after all",
+          "heard": " leading, and its results occur most readily to the mind. He has grieved doubts whether  Sir Frederick Layton's work is really Greek after all, and can discover in it but little  of rocky Ithaca.",
+          "seconds": 1.375
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "LINNELL'S",
+        "heard": "Lenell's",
+        "script_start": 465,
+        "script_end": 474,
+        "start": 33.18,
+        "end": 36.7,
+        "status": "review",
+        "recheck": {
+          "start": 28.18,
+          "end": 41.7,
+          "expected_context": "it but little of rocky ithaca linnell's pictures are a sort of up",
+          "heard": " Greek after all, and can discover in it but little of rocky Ithaca.  Lanell's pictures are a sort of up guards and atom paintings, and Mason's exquisite  Idols are a",
+          "seconds": 2.328
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "AT EM",
+        "heard": "adam",
+        "script_start": 512,
+        "script_end": 517,
+        "start": 36.28,
+        "end": 39.62,
+        "status": "review",
+        "recheck": {
+          "start": 31.28,
+          "end": 44.62,
+          "expected_context": "a sort of up guards and at em paintings and mason's exquisite idylls are",
+          "heard": " but little of rocky Ithaca.  Lanell's pictures are a sort of up guards and atom paintings, and Mason's exquisite  Ittle's era's National as a Jingo poem.",
+          "seconds": 2.203
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "IDYLLS",
+        "heard": "ittles",
+        "script_start": 550,
+        "script_end": 556,
+        "start": 39.14,
+        "end": 42.62,
+        "status": "review",
+        "recheck": {
+          "start": 34.14,
+          "end": 47.62,
+          "expected_context": "at em paintings and mason's exquisite idylls are as national as a jingo",
+          "heard": " Lanell's pictures are a sort of up guards and atom paintings, and Mason's exquisite  ittles are as national as a jingo poem.  Mr. Birkett fosters landscapes.",
+          "seconds": 2.344
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "BIRKET",
+        "heard": "Burkett",
+        "script_start": 596,
+        "script_end": 602,
+        "start": 44.52,
+        "end": 47.720000000000006,
+        "status": "review",
+        "recheck": {
+          "start": 39.52,
+          "end": 52.720000000000006,
+          "expected_context": "national as a jingo poem mister birket foster's landscapes smile at one much",
+          "heard": " Mason's exquisite ittles are as national as a jingo poem. Mr. Birkett Foster's  landscapes smile at one much in the same way that Mr. Karker used to flash his  teeth",
+          "seconds": 1.375
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "CARKER",
+        "heard": "Karker",
+        "script_start": 669,
+        "script_end": 675,
+        "start": 48.96,
+        "end": 52.26,
+        "status": "review",
+        "recheck": {
+          "start": 43.96,
+          "end": 57.26,
+          "expected_context": "in the same way that mister carker used to flash his teeth and",
+          "heard": " Mr. Birkett fosters landscape's smile at one much in the same way that Mr. Karker used  to flash his teeth.  And Mr. John Collier gives his sitter a cheerful sleigh.",
+          "seconds": 1.328
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "IN",
+        "heard": "an",
+        "script_start": 924,
+        "script_end": 926,
+        "start": 69.48,
+        "end": 72.84,
+        "status": "review",
+        "recheck": {
+          "start": 64.48,
+          "end": 77.84,
+          "expected_context": "luminous these criticisms are how delicate in expression on the general principles of",
+          "heard": " obviously unnecessary for us to point out how luminous these criticisms are, how delicate  in expression.  For the general principles of art, Mr. Quilter writes with equal lucidity.",
+          "seconds": 2.157
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "PRINCIPLES OF ART MISTER QUILTER WRITES WITH EQUAL LUCIDITY. PAINTING HE TELLS US IS OF",
+        "heard": "days of",
+        "script_start": 954,
+        "script_end": 1041,
+        "start": 79.24,
+        "end": 83.06,
+        "status": "review",
+        "recheck": {
+          "start": 74.24,
+          "end": 88.06,
+          "expected_context": "delicate in expression on the general principles of art mister quilter writes with equal lucidity painting he tells us is of a different quality to mathematics and",
+          "heard": " principles of art, Mr. Quilter writes with equal lucidity. Painting, he tells us, is  of a different quality to mathematics, and finish in art is adding more factor.",
+          "seconds": 1.375
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "FACT",
+        "heard": "factor",
+        "script_start": 1110,
+        "script_end": 1114,
+        "start": 85.56,
+        "end": 89.04,
+        "status": "review",
+        "recheck": {
+          "start": 80.56,
+          "end": 94.04,
+          "expected_context": "finish in art is adding more fact as for etchings they are of",
+          "heard": " is of a different quality to mathematics and finish in art is adding more factor.  As for etchings, they are of two kinds, British and foreign.",
+          "seconds": 1.234
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "THE",
+        "heard": "a",
+        "script_start": 1294,
+        "script_end": 1297,
+        "start": 101.3,
+        "end": 104.5,
+        "status": "review",
+        "recheck": {
+          "start": 96.3,
+          "end": 109.5,
+          "expected_context": "what we usually call pictures makes the customary appeal to the last judgment",
+          "heard": " arts that has been made between decorative art and what we usually call pictures, makes  a customary appeal to the Last Judgment and reminds us that in the great days of art Michelangelo  was a great artist.",
+          "seconds": 2.094
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "MICHAEL ANGELO",
+        "heard": "Michelangelo",
+        "script_start": 1381,
+        "script_end": 1395,
+        "start": 106.64,
+        "end": 110.56,
+        "status": "review",
+        "recheck": {
+          "start": 101.64,
+          "end": 112.255,
+          "expected_context": "in the great days of art michael angelo was the furnishing upholsterer",
+          "heard": " course, makes a customary appeal to the Last Judgment and reminds us that in the great  days of art Michelangelo was the furnishing upholsterer.",
+          "seconds": 1.265
+        }
+      }
+    ]
+  },
+  {
+    "id": "human-0-omission",
+    "duration": 82.605,
+    "kind": "omission",
+    "fault": {
+      "start": 34.055,
+      "end": 34.055,
+      "expected": "LINNELL'S PICTURES ARE A SORT OF UP GUARDS AND AT EM PAINTINGS AND MASON'S EXQUISITE IDYLLS ARE AS NATIONAL AS A JINGO POEM MISTER BIRKET FOSTER'S LANDSCAPES SMILE AT ONE MUCH IN THE SAME WAY THAT MISTER CARKER USED TO FLASH HIS TEETH AND MISTER JOHN COLLIER GIVES HIS SITTER A CHEERFUL SLAP ON THE BACK BEFORE HE SAYS LIKE A SHAMPOOER IN A TURKISH BATH NEXT MAN",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "insertion",
+        "expected": "",
+        "heard": "mind",
+        "script_start": 330,
+        "script_end": 330,
+        "start": 21.52,
+        "end": 24.72,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 16.52,
+          "end": 29.72,
+          "expected_context": "occur most readily to the mind he has grave doubts whether sir",
+          "heard": " most beef looming before us. Similes drawn from eating and its results occur most readily  to the mind.\" He has grave doubts whether Sir Frederick Layton's work is really Greek  after all.",
+          "seconds": 2.172
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "LEIGHTON'S",
+        "heard": "Layton's",
+        "script_start": 372,
+        "script_end": 382,
+        "start": 25.14,
+        "end": 28.7,
+        "status": "review",
+        "recheck": {
+          "start": 20.14,
+          "end": 33.7,
+          "expected_context": "has grave doubts whether sir frederick leighton's work is really greek after all",
+          "heard": " leading, and its results occur most readily to the mind. He has grieved doubts whether  Sir Frederick Layton's work is really Greek after all, and can discover in it but little  of rocky Ithaca.",
+          "seconds": 1.313
+        }
+      },
+      {
+        "kind": "omission",
+        "expected": "LINNELL'S PICTURES ARE A SORT OF UP GUARDS AND AT EM PAINTINGS AND MASON'S EXQUISITE IDYLLS ARE AS NATIONAL AS A JINGO POEM MISTER BIRKET FOSTER'S LANDSCAPES SMILE AT ONE MUCH IN THE SAME WAY THAT MISTER CARKER USED TO FLASH HIS TEETH AND MISTER JOHN COLLIER GIVES HIS SITTER A CHEERFUL SLAP ON THE BACK BEFORE HE SAYS LIKE A SHAMPOOER IN A TURKISH BATH NEXT MAN",
+        "heard": "",
+        "script_start": 465,
+        "script_end": 827,
+        "start": 31.560000000000002,
+        "end": 35.5,
+        "status": "review",
+        "recheck": {
+          "start": 26.560000000000002,
+          "end": 40.5,
+          "expected_context": "it but little of rocky ithaca linnell's pictures are a sort of up guards and at em paintings and mason's exquisite idylls are as national as a jingo poem mister birket foster's landscapes smile at one much in the same way that mister carker used to flash his teeth and mister john collier gives his sitter a cheerful slap on the back before he says like a shampooer in a turkish bath next man it is obviously unnecessary for us",
+          "heard": " Clayton's work is really Greek after all, and can discover in it but little of  rocky Ithaca.  It is obviously unnecessary for us to point out how luminous these criticisms are  Thanks for watching!  Please subscribe if you enjoyed the video.  Thank you so much for watching!  See you next time!  Bye!  Bye!",
+          "seconds": 4.39
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "IN",
+        "heard": "an",
+        "script_start": 924,
+        "script_end": 926,
+        "start": 39.84,
+        "end": 43.2,
+        "status": "review",
+        "recheck": {
+          "start": 34.84,
+          "end": 48.2,
+          "expected_context": "luminous these criticisms are how delicate in expression on the general principles of",
+          "heard": " It's obviously unnecessary for us to point out how luminous these criticisms are, how  delicate in expression.  In the general principles of art, Mr. Quilter writes with equal lucidity.",
+          "seconds": 2.172
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "FACT",
+        "heard": "factor",
+        "script_start": 1110,
+        "script_end": 1114,
+        "start": 55.92,
+        "end": 59.4,
+        "status": "review",
+        "recheck": {
+          "start": 50.92,
+          "end": 64.4,
+          "expected_context": "finish in art is adding more fact as for etchings they are of",
+          "heard": " is of a different quality to mathematics and finish in art is adding more factor. As for  etchings, they are of two kinds, British and foreign.",
+          "seconds": 1.234
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "THE",
+        "heard": "a",
+        "script_start": 1294,
+        "script_end": 1297,
+        "start": 71.64,
+        "end": 74.84,
+        "status": "review",
+        "recheck": {
+          "start": 66.64,
+          "end": 79.84,
+          "expected_context": "what we usually call pictures makes the customary appeal to the last judgment",
+          "heard": " of art that has been made between decorative art and what we usually call pictures, makes  a customary appeal to the Last Judgment and reminds us that in the great days of art Michelangelo  was",
+          "seconds": 2.266
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "MICHAEL ANGELO",
+        "heard": "Michelangelo",
+        "script_start": 1381,
+        "script_end": 1395,
+        "start": 77.02,
+        "end": 80.92,
+        "status": "review",
+        "recheck": {
+          "start": 72.02,
+          "end": 82.605,
+          "expected_context": "in the great days of art michael angelo was the furnishing upholsterer",
+          "heard": " course, makes a customary appeal to the Last Judgment and reminds us that in the great  days of art Michelangelo was the furnishing upholsterer.",
+          "seconds": 1.234
+        }
+      }
+    ]
+  },
+  {
+    "id": "human-1-clean",
+    "duration": 63.32,
+    "kind": "clean",
+    "fault": null,
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "WERE",
+        "heard": "are",
+        "script_start": 12,
+        "script_end": 16,
+        "start": 0,
+        "end": 2.6,
+        "status": "review",
+        "recheck": {
+          "start": 0,
+          "end": 7.6,
+          "expected_context": "because you were sleeping instead of conquering the lovely",
+          "heard": " Because you are sleeping instead of conquering the lovely rose princess has become a fiddle without a bow",
+          "seconds": 1.125
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "HAS FLED IN",
+        "heard": "is flood and",
+        "script_start": 557,
+        "script_end": 568,
+        "start": 38.44,
+        "end": 42.12,
+        "status": "review",
+        "recheck": {
+          "start": 33.44,
+          "end": 47.12,
+          "expected_context": "and opened the door the king has fled in disgrace and your friends are asking",
+          "heard": " The little girl had been asleep, but she heard the raps and opened the door.  The king is flooding disgrace, and your friends are asking for you.  I begged Rugadot long ago to send him away, but he would",
+          "seconds": 1.437
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "RUGGEDO",
+        "heard": "Ruggado",
+        "script_start": 624,
+        "script_end": 631,
+        "start": 43.0,
+        "end": 46.52,
+        "status": "review",
+        "recheck": {
+          "start": 38.0,
+          "end": 51.52,
+          "expected_context": "are asking for you i begged ruggedo long ago to send him away",
+          "heard": " the door. The king is flood and disgrace and your friends are asking for you.\"  I begged Rugado long ago to send him away, but he would not do so. I also offered  to help your brother to escape, but he would",
+          "seconds": 1.375
+        }
+      }
+    ]
+  },
+  {
+    "id": "human-1-omission",
+    "duration": 58.845,
+    "kind": "omission",
+    "fault": {
+      "start": 39.245,
+      "end": 39.245,
+      "expected": "THE KING HAS FLED IN DISGRACE AND YOUR FRIENDS ARE ASKING FOR YOU",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "WERE",
+        "heard": "are",
+        "script_start": 12,
+        "script_end": 16,
+        "start": 0,
+        "end": 2.6,
+        "status": "review",
+        "recheck": {
+          "start": 0,
+          "end": 7.6,
+          "expected_context": "because you were sleeping instead of conquering the lovely",
+          "heard": " Because you are sleeping instead of conquering the lovely rose princess has become a fiddle without a bow",
+          "seconds": 1.14
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "THE KING HAS FLED IN DISGRACE AND YOUR FRIENDS ARE ASKING FOR YOU. I BEGGED RUGGEDO",
+        "heard": "I begged Ruggido",
+        "script_start": 548,
+        "script_end": 631,
+        "start": 37.760000000000005,
+        "end": 42.04,
+        "status": "review",
+        "recheck": {
+          "start": 32.760000000000005,
+          "end": 47.04,
+          "expected_context": "the raps and opened the door the king has fled in disgrace and your friends are asking for you i begged ruggedo long ago to send him away",
+          "heard": " threads. The little girl had been asleep, but she heard the raps and opened the door.  I begged Ruggado long ago to send him away, but he would not do so. I also offered to  help your brother to escape, but he would-",
+          "seconds": 1.485
+        }
+      }
+    ]
+  },
+  {
+    "id": "human-2-clean",
+    "duration": 56.9149375,
+    "kind": "clean",
+    "fault": null,
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "KALIKO. KALIKO",
+        "heard": "Calico. Calico",
+        "script_start": 87,
+        "script_end": 101,
+        "start": 4.84,
+        "end": 10.0,
+        "status": "review",
+        "recheck": {
+          "start": 0,
+          "end": 15.0,
+          "expected_context": "largest in all our dominions replied kaliko kaliko hesitated however if we look sharp",
+          "heard": " The metal forest is in the great domed cavern, the largest in all our dominions,\" replied  Calico.  Calico hesitated.  However, if we look sharp, we may be able to discover...",
+          "seconds": 2.313
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "ANN",
+        "heard": "Anne",
+        "script_start": 281,
+        "script_end": 284,
+        "start": 23.34,
+        "end": 26.74,
+        "status": "review",
+        "recheck": {
+          "start": 18.34,
+          "end": 31.74,
+          "expected_context": "betsy thoughtfully i do not believe ann knew any magic or she'd have",
+          "heard": " I'm quite sure he didn't.\"  \"'That's funny,' remarked Betsy thoughtfully.  \"'I don't believe Anne knew any magic, or she'd have worked it before.'  \"'I do not know,' confessed Shaggy.\"",
+          "seconds": 1.375
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "KALIKO. KALIKO",
+        "heard": "Calico. Calico",
+        "script_start": 376,
+        "script_end": 390,
+        "start": 31.72,
+        "end": 36.82,
+        "status": "review",
+        "recheck": {
+          "start": 26.72,
+          "end": 41.82,
+          "expected_context": "not know confessed shaggy true agreed kaliko kaliko went to the big gong and",
+          "heard": " she'd have worked it before.\"  \"'I do not know,' confessed Shaggy.  \"'True,' agreed Calico.  Calico went to the big gong and pounded on it just as Vergado used to do, but no one  answered the summons.",
+          "seconds": 2.453
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "RUGGEDO",
+        "heard": "Ruggido",
+        "script_start": 438,
+        "script_end": 445,
+        "start": 36.74,
+        "end": 39.96,
+        "status": "review",
+        "recheck": {
+          "start": 31.740000000000002,
+          "end": 44.96,
+          "expected_context": "and pounded on it just as ruggedo used to do but no one",
+          "heard": " True,\" agreed Calico.  Calico went to the big gong and pounded on it just as Bergado used to do, but no one  answered the summons.  having returned to the Royal Cavern.",
+          "seconds": 2.437
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "KALIKO",
+        "heard": "Calico",
+        "script_start": 526,
+        "script_end": 532,
+        "start": 43.52,
+        "end": 46.74,
+        "status": "review",
+        "recheck": {
+          "start": 38.52,
+          "end": 51.74,
+          "expected_context": "having returned to the royal cavern kaliko first pounded the gong and then",
+          "heard": " used to do, but no one answered the summons. Having returned to the royal cavern, Calico  first pounded the gong and then sat in the throne wearing ruggedos discarded ruby crown  and",
+          "seconds": 2.203
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "RUGGEDO'S",
+        "heard": "Ruggido's",
+        "script_start": 591,
+        "script_end": 600,
+        "start": 47.46,
+        "end": 51.16,
+        "status": "review",
+        "recheck": {
+          "start": 42.46,
+          "end": 56.16,
+          "expected_context": "then sat in the throne wearing ruggedo's discarded ruby crown and holding in",
+          "heard": " Having returned to the royal cavern, Calico first pounded the gong and then sat in the throne, wearing ruggedos discarded ruby crown, and holding in his hand the scepter which ruggedo had so often thrown at his head.",
+          "seconds": 1.407
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "RUGGEDO",
+        "heard": "Regano",
+        "script_start": 664,
+        "script_end": 671,
+        "start": 51.9,
+        "end": 55.38,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 46.9,
+          "end": 56.9149375,
+          "expected_context": "in his hand the scepter which ruggedo had so often thrown at his",
+          "heard": " and then sat in the throne, wearing ruggedos, discarded ruby crown, and holding in his hand  the scepter which ruggedo had so often thrown at his head.",
+          "seconds": 1.281
+        }
+      }
+    ]
+  },
+  {
+    "id": "human-2-omission",
+    "duration": 53.1399375,
+    "kind": "omission",
+    "fault": {
+      "start": 19.9599375,
+      "end": 19.9599375,
+      "expected": "THAT'S FUNNY REMARKED BETSY THOUGHTFULLY",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "KALIKO. KALIKO",
+        "heard": "Calico. Calico",
+        "script_start": 87,
+        "script_end": 101,
+        "start": 4.84,
+        "end": 10.0,
+        "status": "review",
+        "recheck": {
+          "start": 0,
+          "end": 15.0,
+          "expected_context": "largest in all our dominions replied kaliko kaliko hesitated however if we look sharp",
+          "heard": " The metal forest is in the great domed cavern, the largest in all our dominions,\" replied  Calico.  Calico hesitated.  However, if we look sharp, we may be able to discover...",
+          "seconds": 2.297
+        }
+      },
+      {
+        "kind": "omission",
+        "expected": "THAT'S FUNNY REMARKED BETSY THOUGHTFULLY",
+        "heard": "",
+        "script_start": 223,
+        "script_end": 263,
+        "start": 17.82,
+        "end": 21.7,
+        "status": "review",
+        "recheck": {
+          "start": 12.82,
+          "end": 26.7,
+          "expected_context": "am quite sure he did not that's funny remarked betsy thoughtfully i do not believe ann knew",
+          "heard": " up. We may be able to discover one of these secret ways.\"  Oh no, I'm quite sure he didn't. I don't believe Anne knew any magic, or she'd  have worked it before.  I do not know, confess.",
+          "seconds": 2.297
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "ANN",
+        "heard": "Anne",
+        "script_start": 281,
+        "script_end": 284,
+        "start": 19.58,
+        "end": 22.94,
+        "status": "review",
+        "recheck": {
+          "start": 14.579999999999998,
+          "end": 27.94,
+          "expected_context": "betsy thoughtfully i do not believe ann knew any magic or she'd have",
+          "heard": " discover one of these secret ways? Oh no, I'm quite sure he didn't. I don't believe  Anne knew any magic or she'd have worked it before. I do not know, confessed Shaggy.",
+          "seconds": 1.344
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "KALIKO. KALIKO",
+        "heard": "Calico. Calico",
+        "script_start": 376,
+        "script_end": 390,
+        "start": 27.96,
+        "end": 33.08,
+        "status": "review",
+        "recheck": {
+          "start": 22.96,
+          "end": 38.08,
+          "expected_context": "not know confessed shaggy true agreed kaliko kaliko went to the big gong and",
+          "heard": " she'd have worked it before.\"  \"'I do not know,' confessed Shaggy.  \"'True,' agreed Calico.  Calico went to the big gong and pounded on it just as Vergado used to do, but no one  answered the summons.\"",
+          "seconds": 1.531
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "RUGGEDO",
+        "heard": "Ruggato",
+        "script_start": 438,
+        "script_end": 445,
+        "start": 32.94,
+        "end": 36.18,
+        "status": "review",
+        "recheck": {
+          "start": 27.939999999999998,
+          "end": 41.18,
+          "expected_context": "and pounded on it just as ruggedo used to do but no one",
+          "heard": " True,\" agreed Calico.  Calico went to the Big Gong and pounded on it, just as Bergado used to do, but no one  answered the summons.  Having returned to the Royal Cavern.",
+          "seconds": 4.813
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "KALIKO",
+        "heard": "Calico",
+        "script_start": 526,
+        "script_end": 532,
+        "start": 39.74,
+        "end": 43.02,
+        "status": "review",
+        "recheck": {
+          "start": 34.74,
+          "end": 48.02,
+          "expected_context": "having returned to the royal cavern kaliko first pounded the gong and then",
+          "heard": " used to do, but no one answered the summons.  Having returned to the royal cavern, Calico first pounded the gong and then sat in the  throne, wearing ruggedos, discarded ruby crown, and hope",
+          "seconds": 2.297
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "RUGGEDO'S",
+        "heard": "Ruggato's",
+        "script_start": 591,
+        "script_end": 600,
+        "start": 43.72,
+        "end": 47.38,
+        "status": "review",
+        "recheck": {
+          "start": 38.72,
+          "end": 52.38,
+          "expected_context": "then sat in the throne wearing ruggedo's discarded ruby crown and holding in",
+          "heard": " Having returned to the royal cavern, Calico first pounded the gong and then sat in the throne,  wearing ruggedos, discarded ruby crown, and holding in his hand the scepter which  ruggedo had so often thrown at his head.",
+          "seconds": 1.453
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "RUGGEDO",
+        "heard": "Regano",
+        "script_start": 664,
+        "script_end": 671,
+        "start": 48.12,
+        "end": 51.6,
+        "status": "review",
+        "recheck": {
+          "start": 43.12,
+          "end": 53.1399375,
+          "expected_context": "in his hand the scepter which ruggedo had so often thrown at his",
+          "heard": " and then sat in the throne, wearing ruggedos, discarded ruby crown, and holding in his hand  the scepter which Regano had so often thrown at his head.",
+          "seconds": 2.297
+        }
+      }
+    ]
+  }
+]

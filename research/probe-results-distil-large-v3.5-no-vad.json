@@ -1,0 +1,373 @@
+[
+  {
+    "id": "human-0-clean",
+    "duration": 112.255,
+    "asr_seconds": 18.641000000061467,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "mister",
+        "heard": "mr",
+        "start": 0,
+        "end": 2.3
+      },
+      {
+        "kind": "replace",
+        "expected": "mister",
+        "heard": "mr",
+        "start": 5.66,
+        "end": 8.98
+      },
+      {
+        "kind": "replace",
+        "expected": "leighton's",
+        "heard": "layton's",
+        "start": 25.22,
+        "end": 28.68
+      },
+      {
+        "kind": "replace",
+        "expected": "at",
+        "heard": "adam",
+        "start": 36.32,
+        "end": 39.6
+      },
+      {
+        "kind": "delete",
+        "expected": "em",
+        "heard": "",
+        "start": 36.6,
+        "end": 39.800000000000004
+      },
+      {
+        "kind": "replace",
+        "expected": "idylls",
+        "heard": "iddles",
+        "start": 39.28,
+        "end": 42.68
+      },
+      {
+        "kind": "replace",
+        "expected": "mister birket",
+        "heard": "mr birkett",
+        "start": 44.04,
+        "end": 47.64
+      },
+      {
+        "kind": "replace",
+        "expected": "mister",
+        "heard": "mr",
+        "start": 48.46,
+        "end": 51.8
+      },
+      {
+        "kind": "replace",
+        "expected": "mister",
+        "heard": "mr",
+        "start": 52.48,
+        "end": 55.72
+      },
+      {
+        "kind": "replace",
+        "expected": "in",
+        "heard": "an",
+        "start": 69.6,
+        "end": 72.88
+      },
+      {
+        "kind": "replace",
+        "expected": "mister",
+        "heard": "mr",
+        "start": 73.84,
+        "end": 77.06
+      },
+      {
+        "kind": "replace",
+        "expected": "the",
+        "heard": "a",
+        "start": 101.34,
+        "end": 104.54
+      },
+      {
+        "kind": "replace",
+        "expected": "michael",
+        "heard": "michelangelo",
+        "start": 106.68,
+        "end": 110.68
+      },
+      {
+        "kind": "delete",
+        "expected": "angelo",
+        "heard": "",
+        "start": 107.68,
+        "end": 110.88000000000001
+      }
+    ],
+    "fault": null
+  },
+  {
+    "id": "human-0-omission",
+    "duration": 82.605,
+    "asr_seconds": 13.922000000020489,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "mister",
+        "heard": "mr",
+        "start": 0,
+        "end": 2.3
+      },
+      {
+        "kind": "replace",
+        "expected": "mister",
+        "heard": "mr",
+        "start": 5.66,
+        "end": 8.98
+      },
+      {
+        "kind": "replace",
+        "expected": "leighton's",
+        "heard": "layton's",
+        "start": 25.22,
+        "end": 28.68
+      },
+      {
+        "kind": "delete",
+        "expected": "linnell's pictures are a sort of up guards and at em paintings and mason's exquisite idylls are as national as a jingo poem mister birket foster's landscapes smile at one much in the same way that mister carker used to flash his teeth and mister john collier gives his sitter a cheerful slap on the back before he says like a shampooer in a turkish bath next man",
+        "heard": "",
+        "start": 31.659999999999997,
+        "end": 36.18
+      },
+      {
+        "kind": "replace",
+        "expected": "in",
+        "heard": "an",
+        "start": 39.92,
+        "end": 43.22
+      },
+      {
+        "kind": "replace",
+        "expected": "mister",
+        "heard": "mr",
+        "start": 44.18,
+        "end": 47.42
+      },
+      {
+        "kind": "delete",
+        "expected": "as for etchings",
+        "heard": "",
+        "start": 56.46,
+        "end": 61.5
+      },
+      {
+        "kind": "replace",
+        "expected": "the",
+        "heard": "a",
+        "start": 71.68,
+        "end": 74.88000000000001
+      },
+      {
+        "kind": "replace",
+        "expected": "michael",
+        "heard": "michelangelo",
+        "start": 77.04,
+        "end": 81.0
+      },
+      {
+        "kind": "delete",
+        "expected": "angelo",
+        "heard": "",
+        "start": 78.0,
+        "end": 81.2
+      }
+    ],
+    "fault": {
+      "start": 34.055,
+      "end": 34.055,
+      "expected": "LINNELL'S PICTURES ARE A SORT OF UP GUARDS AND AT EM PAINTINGS AND MASON'S EXQUISITE IDYLLS ARE AS NATIONAL AS A JINGO POEM MISTER BIRKET FOSTER'S LANDSCAPES SMILE AT ONE MUCH IN THE SAME WAY THAT MISTER CARKER USED TO FLASH HIS TEETH AND MISTER JOHN COLLIER GIVES HIS SITTER A CHEERFUL SLAP ON THE BACK BEFORE HE SAYS LIKE A SHAMPOOER IN A TURKISH BATH NEXT MAN",
+      "heard": ""
+    }
+  },
+  {
+    "id": "human-1-clean",
+    "duration": 63.32,
+    "asr_seconds": 13.796999999904074,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "were",
+        "heard": "are",
+        "start": 0,
+        "end": 2.62
+      },
+      {
+        "kind": "replace",
+        "expected": "ruggedo",
+        "heard": "ruggado",
+        "start": 43.04,
+        "end": 46.5
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "the king",
+        "start": 58.38,
+        "end": 61.580000000000005
+      }
+    ],
+    "fault": null
+  },
+  {
+    "id": "human-1-omission",
+    "duration": 58.845,
+    "asr_seconds": 9.297000000020489,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "were",
+        "heard": "are",
+        "start": 0,
+        "end": 2.62
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "in",
+        "start": 31.36,
+        "end": 34.56
+      },
+      {
+        "kind": "replace",
+        "expected": "raps",
+        "heard": "wraps",
+        "start": 35.76,
+        "end": 39.04
+      },
+      {
+        "kind": "delete",
+        "expected": "the king has fled in disgrace and your friends are asking for you",
+        "heard": "",
+        "start": 37.28,
+        "end": 40.480000000000004
+      }
+    ],
+    "fault": {
+      "start": 39.245,
+      "end": 39.245,
+      "expected": "THE KING HAS FLED IN DISGRACE AND YOUR FRIENDS ARE ASKING FOR YOU",
+      "heard": ""
+    }
+  },
+  {
+    "id": "human-2-clean",
+    "duration": 56.9149375,
+    "asr_seconds": 9.26500000001397,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "kaliko kaliko",
+        "heard": "calico calico",
+        "start": 4.92,
+        "end": 10.02
+      },
+      {
+        "kind": "replace",
+        "expected": "ann",
+        "heard": "anne",
+        "start": 23.4,
+        "end": 26.78
+      },
+      {
+        "kind": "replace",
+        "expected": "kaliko kaliko",
+        "heard": "calico calico",
+        "start": 31.759999999999998,
+        "end": 36.84
+      },
+      {
+        "kind": "replace",
+        "expected": "kaliko",
+        "heard": "calico",
+        "start": 42.94,
+        "end": 46.82
+      },
+      {
+        "kind": "replace",
+        "expected": "sceptre",
+        "heard": "scepter",
+        "start": 51.3,
+        "end": 54.7
+      }
+    ],
+    "fault": null
+  },
+  {
+    "id": "human-2-omission",
+    "duration": 53.1399375,
+    "asr_seconds": 9.219000000040978,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "kaliko kaliko",
+        "heard": "calico calico",
+        "start": 4.92,
+        "end": 10.02
+      },
+      {
+        "kind": "delete",
+        "expected": "that's funny remarked betsy thoughtfully",
+        "heard": "",
+        "start": 18.42,
+        "end": 21.62
+      },
+      {
+        "kind": "replace",
+        "expected": "ann",
+        "heard": "anne",
+        "start": 19.62,
+        "end": 23.0
+      },
+      {
+        "kind": "replace",
+        "expected": "kaliko kaliko",
+        "heard": "calico calico",
+        "start": 27.96,
+        "end": 33.1
+      },
+      {
+        "kind": "replace",
+        "expected": "ruggedo",
+        "heard": "ragado",
+        "start": 32.88,
+        "end": 36.2
+      },
+      {
+        "kind": "replace",
+        "expected": "kaliko",
+        "heard": "calico",
+        "start": 39.62,
+        "end": 43.06
+      },
+      {
+        "kind": "replace",
+        "expected": "ruggedo's",
+        "heard": "ragado's",
+        "start": 43.7,
+        "end": 47.34
+      },
+      {
+        "kind": "replace",
+        "expected": "ruggedo",
+        "heard": "ragado",
+        "start": 48.14,
+        "end": 51.58
+      }
+    ],
+    "fault": {
+      "start": 19.9599375,
+      "end": 19.9599375,
+      "expected": "THAT'S FUNNY REMARKED BETSY THOUGHTFULLY",
+      "heard": ""
+    }
+  }
+]

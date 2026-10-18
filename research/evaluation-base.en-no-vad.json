@@ -1,0 +1,544 @@
+{
+  "model": "base.en-no-vad",
+  "defects_found": 18,
+  "defects_total": 18,
+  "clean_suspects": 5,
+  "clean_minutes": 4.987911111111112,
+  "max_review_fraction": 0.35421888053467,
+  "results": [
+    {
+      "id": "garden-af_heart-clean",
+      "kind": "clean",
+      "hit": null,
+      "duration": 46.010666666666665,
+      "review_fraction": 0.0,
+      "findings": [],
+      "seconds": 1.4540000000270084
+    },
+    {
+      "id": "garden-af_heart-omission",
+      "kind": "omission",
+      "hit": true,
+      "duration": 40.83266666666667,
+      "review_fraction": 0.08718509689954126,
+      "findings": [
+        {
+          "kind": "omission",
+          "expected": "They agreed to leave the wild flowers near the gate because bees were already visiting them",
+          "heard": "",
+          "script_start": 295,
+          "script_end": 386,
+          "start": 15.2,
+          "end": 18.76
+        }
+      ],
+      "seconds": 1.327999999979511
+    },
+    {
+      "id": "garden-af_heart-repetition",
+      "kind": "repetition",
+      "hit": true,
+      "duration": 51.89266666666666,
+      "review_fraction": 0.2821207877799046,
+      "findings": [
+        {
+          "kind": "repetition",
+          "expected": "",
+          "heard": "Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs",
+          "script_start": 595,
+          "script_end": 595,
+          "start": 25.98,
+          "end": 40.62
+        }
+      ],
+      "seconds": 1.7179999999934807
+    },
+    {
+      "id": "garden-af_heart-substitution",
+      "kind": "substitution",
+      "hit": true,
+      "duration": 46.096,
+      "review_fraction": 0.07072197153766058,
+      "findings": [
+        {
+          "kind": "replacement",
+          "expected": "one",
+          "heard": "two",
+          "script_start": 420,
+          "script_end": 423,
+          "start": 22.38,
+          "end": 25.64
+        }
+      ],
+      "seconds": 1.547000000020489
+    },
+    {
+      "id": "garden-am_michael-clean",
+      "kind": "clean",
+      "hit": null,
+      "duration": 51.00266666666667,
+      "review_fraction": 0.12783645299592178,
+      "findings": [
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "them",
+          "script_start": 388,
+          "script_end": 388,
+          "start": 22.88,
+          "end": 26.08
+        },
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "everyone",
+          "script_start": 733,
+          "script_end": 733,
+          "start": 45.72,
+          "end": 49.04
+        }
+      ],
+      "seconds": 1.922000000020489
+    },
+    {
+      "id": "garden-am_michael-omission",
+      "kind": "omission",
+      "hit": true,
+      "duration": 45.227333333333334,
+      "review_fraction": 0.15256260963134385,
+      "findings": [
+        {
+          "kind": "omission",
+          "expected": "They agreed to leave the wild flowers near the gate because bees were already visiting them",
+          "heard": "",
+          "script_start": 295,
+          "script_end": 386,
+          "start": 16.96,
+          "end": 20.56
+        },
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "summer",
+          "script_start": 483,
+          "script_end": 483,
+          "start": 23.16,
+          "end": 26.46
+        }
+      ],
+      "seconds": 1.765999999945052
+    },
+    {
+      "id": "garden-am_michael-repetition",
+      "kind": "repetition",
+      "hit": true,
+      "duration": 57.546,
+      "review_fraction": 0.3242623292670212,
+      "findings": [
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "them",
+          "script_start": 388,
+          "script_end": 388,
+          "start": 22.88,
+          "end": 26.08
+        },
+        {
+          "kind": "repetition",
+          "expected": "",
+          "heard": "Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs",
+          "script_start": 491,
+          "script_end": 491,
+          "start": 29.68,
+          "end": 45.14
+        }
+      ],
+      "seconds": 1.984000000054948
+    },
+    {
+      "id": "garden-am_michael-substitution",
+      "kind": "substitution",
+      "hit": true,
+      "duration": 51.04533333333333,
+      "review_fraction": 0.16651865008880995,
+      "findings": [
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "them",
+          "script_start": 388,
+          "script_end": 388,
+          "start": 22.9,
+          "end": 26.099999999999998
+        },
+        {
+          "kind": "replacement",
+          "expected": "one",
+          "heard": "too",
+          "script_start": 420,
+          "script_end": 423,
+          "start": 24.84,
+          "end": 28.08
+        },
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "everyone",
+          "script_start": 733,
+          "script_end": 733,
+          "start": 45.76,
+          "end": 49.08
+        }
+      ],
+      "seconds": 1.797000000020489
+    },
+    {
+      "id": "museum-af_heart-clean",
+      "kind": "clean",
+      "hit": null,
+      "duration": 47.888,
+      "review_fraction": 0.0,
+      "findings": [],
+      "seconds": 1.422000000020489
+    },
+    {
+      "id": "museum-af_heart-omission",
+      "kind": "omission",
+      "hit": true,
+      "duration": 41.238,
+      "review_fraction": 0.08438818565400845,
+      "findings": [
+        {
+          "kind": "omission",
+          "expected": "A volunteer carefully photographed every piece before the conservation team began putting them back together",
+          "heard": "",
+          "script_start": 293,
+          "script_end": 401,
+          "start": 15.3,
+          "end": 18.78
+        }
+      ],
+      "seconds": 1.375
+    },
+    {
+      "id": "museum-af_heart-repetition",
+      "kind": "repetition",
+      "hit": true,
+      "duration": 53.15133333333333,
+      "review_fraction": 0.19776236406737993,
+      "findings": [
+        {
+          "kind": "replacement",
+          "expected": "The",
+          "heard": "You can see a thin line near the base, where a missing piece was replaced with plain material. The",
+          "script_start": 599,
+          "script_end": 602,
+          "start": 33.62,
+          "end": 41.98
+        },
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "next. 7",
+          "script_start": 814,
+          "script_end": 814,
+          "start": 51.0,
+          "end": 53.15133333333333
+        }
+      ],
+      "seconds": 4.015999999945052
+    },
+    {
+      "id": "museum-af_heart-substitution",
+      "kind": "substitution",
+      "hit": true,
+      "duration": 48.016,
+      "review_fraction": 0.06664445184938353,
+      "findings": [
+        {
+          "kind": "replacement",
+          "expected": "blue",
+          "heard": "green",
+          "script_start": 115,
+          "script_end": 119,
+          "start": 5.02,
+          "end": 8.219999999999999
+        }
+      ],
+      "seconds": 1.4059999999590218
+    },
+    {
+      "id": "museum-am_michael-clean",
+      "kind": "clean",
+      "hit": null,
+      "duration": 52.496,
+      "review_fraction": 0.06095702529716555,
+      "findings": [
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "The",
+          "script_start": 771,
+          "script_end": 771,
+          "start": 47.76,
+          "end": 50.96
+        }
+      ],
+      "seconds": 1.734000000054948
+    },
+    {
+      "id": "museum-am_michael-omission",
+      "kind": "omission",
+      "hit": true,
+      "duration": 45.504666666666665,
+      "review_fraction": 0.07779421890795081,
+      "findings": [
+        {
+          "kind": "omission",
+          "expected": "A volunteer carefully photographed every piece before the conservation team began putting them back together",
+          "heard": "",
+          "script_start": 293,
+          "script_end": 401,
+          "start": 16.84,
+          "end": 20.38
+        }
+      ],
+      "seconds": 1.297000000020489
+    },
+    {
+      "id": "museum-am_michael-repetition",
+      "kind": "repetition",
+      "hit": true,
+      "duration": 58.54866666666667,
+      "review_fraction": 0.24594923880987893,
+      "findings": [
+        {
+          "kind": "repetition",
+          "expected": "",
+          "heard": "You can see a thin line near the base where a missing piece was replaced with plain material",
+          "script_start": 599,
+          "script_end": 599,
+          "start": 31.08,
+          "end": 45.48
+        }
+      ],
+      "seconds": 1.7810000000754371
+    },
+    {
+      "id": "museum-am_michael-substitution",
+      "kind": "substitution",
+      "hit": true,
+      "duration": 52.56,
+      "review_fraction": 0.12176560121765606,
+      "findings": [
+        {
+          "kind": "replacement",
+          "expected": "blue",
+          "heard": "green",
+          "script_start": 115,
+          "script_end": 119,
+          "start": 5.62,
+          "end": 8.82
+        },
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "the",
+          "script_start": 767,
+          "script_end": 767,
+          "start": 47.64,
+          "end": 50.84
+        }
+      ],
+      "seconds": 1.75
+    },
+    {
+      "id": "backup-af_heart-clean",
+      "kind": "clean",
+      "hit": null,
+      "duration": 48.101333333333336,
+      "review_fraction": 0.0,
+      "findings": [],
+      "seconds": 1.5
+    },
+    {
+      "id": "backup-af_heart-omission",
+      "kind": "omission",
+      "hit": true,
+      "duration": 42.902,
+      "review_fraction": 0.07691949093282358,
+      "findings": [
+        {
+          "kind": "omission",
+          "expected": "Open several copied files on another computer to check that they can actually be read",
+          "heard": "",
+          "script_start": 327,
+          "script_end": 412,
+          "start": 16.26,
+          "end": 19.56
+        }
+      ],
+      "seconds": 1.4839999999385327
+    },
+    {
+      "id": "backup-af_heart-repetition",
+      "kind": "repetition",
+      "hit": true,
+      "duration": 53.620666666666665,
+      "review_fraction": 0.2637042931208117,
+      "findings": [
+        {
+          "kind": "repetition",
+          "expected": "",
+          "heard": "Write down any software licenses and make sure you can sign into the accounts you will need later",
+          "script_start": 609,
+          "script_end": 609,
+          "start": 26.86,
+          "end": 41.0
+        }
+      ],
+      "seconds": 1.547000000020489
+    },
+    {
+      "id": "backup-af_heart-substitution",
+      "kind": "substitution",
+      "hit": true,
+      "duration": 48.101333333333336,
+      "review_fraction": 0.07692094467235826,
+      "findings": [
+        {
+          "kind": "replacement",
+          "expected": "unchanged",
+          "heard": "disconnected",
+          "script_start": 636,
+          "script_end": 645,
+          "start": 34.1,
+          "end": 37.8
+        }
+      ],
+      "seconds": 1.4849999999860302
+    },
+    {
+      "id": "backup-am_michael-clean",
+      "kind": "clean",
+      "hit": null,
+      "duration": 53.776,
+      "review_fraction": 0.101829812555787,
+      "findings": [
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "Instead",
+          "script_start": 414,
+          "script_end": 414,
+          "start": 24.08,
+          "end": 27.3
+        },
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "raised",
+          "script_start": 833,
+          "script_end": 833,
+          "start": 51.52,
+          "end": 53.776
+        }
+      ],
+      "seconds": 3.39000000001397
+    },
+    {
+      "id": "backup-am_michael-omission",
+      "kind": "omission",
+      "hit": true,
+      "duration": 47.787333333333336,
+      "review_fraction": 0.13936747534214086,
+      "findings": [
+        {
+          "kind": "omission",
+          "expected": "Open several copied files on another computer to check that they can actually be read",
+          "heard": "",
+          "script_start": 327,
+          "script_end": 412,
+          "start": 18.28,
+          "end": 21.64
+        },
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "usable",
+          "script_start": 501,
+          "script_end": 501,
+          "start": 24.0,
+          "end": 27.3
+        }
+      ],
+      "seconds": 1.3599999999860302
+    },
+    {
+      "id": "backup-am_michael-repetition",
+      "kind": "repetition",
+      "hit": true,
+      "duration": 59.85,
+      "review_fraction": 0.35421888053467,
+      "findings": [
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "Instead",
+          "script_start": 414,
+          "script_end": 414,
+          "start": 24.08,
+          "end": 27.3
+        },
+        {
+          "kind": "repetition",
+          "expected": "",
+          "heard": "Write down any software licenses and make sure you can sign into the accounts you will need later",
+          "script_start": 609,
+          "script_end": 609,
+          "start": 30.92,
+          "end": 45.68
+        },
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "asks",
+          "script_start": 723,
+          "script_end": 723,
+          "start": 49.82,
+          "end": 53.04
+        }
+      ],
+      "seconds": 1.875
+    },
+    {
+      "id": "backup-am_michael-substitution",
+      "kind": "substitution",
+      "hit": true,
+      "duration": 53.605333333333334,
+      "review_fraction": 0.1305840214903991,
+      "findings": [
+        {
+          "kind": "insertion",
+          "expected": "",
+          "heard": "Instead",
+          "script_start": 414,
+          "script_end": 414,
+          "start": 24.08,
+          "end": 27.32
+        },
+        {
+          "kind": "replacement",
+          "expected": "unchanged",
+          "heard": "disconnected",
+          "script_start": 636,
+          "script_end": 645,
+          "start": 38.3,
+          "end": 42.06
+        }
+      ],
+      "seconds": 1.859000000054948
+    }
+  ]
+}

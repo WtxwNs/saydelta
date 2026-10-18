@@ -1,0 +1,46 @@
+[
+  {
+    "window": "daily",
+    "error": "The read operation timed out"
+  },
+  {
+    "window": "weekly",
+    "entries": [
+      "Star morluto / rea Reverse engineer anything with agents, from app behavior down to native binaries. TypeScript 318,667 80,813 Built by 239,923 stars this week",
+      "Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designers, and filmmakers Rust 32,448 5,143 Built by 18,479 stars this week",
+      "Star boykopovar / AnyPS5 Tool for automatic PS5 executables porting to Linux and Windows C++ 42,805 3,880 Built by 16,250 stars this week",
+      "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins. Python 42,445 4,518 Built by 3,581 stars this week",
+      "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. TypeScript 30,669 2,253 Built by 4,438 stars this week",
+      "Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. HTML 57,524 3,675 Built by 8,382 stars this week",
+      "Star NationalSecurityAgency / ghidra Ghidra is a software reverse engineering (SRE) framework Java 90,688 10,151 Built by 7,608 stars this week",
+      "Star heygen-com / hyperframes Write HTML. Render video. Built for agents. TypeScript 66,540 6,017 Built by 5,639 stars this week",
+      "Star cursor / plugins Cursor plugin specification and official plugins TypeScript 12,633 1,237 Built by 1,536 stars this week",
+      "Sponsor Star MadsLorentzen / ai-job-search The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. Python 52,157 17,188 Built by 4,200 stars this week"
+    ]
+  },
+  {
+    "window": "monthly",
+    "entries": [
+      "Star paperclipai / paperclip The open-source app everyone uses to manage agents at work TypeScript 103,992 17,384 Built by 22,891 stars this month",
+      "Sponsor Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages. Python 74,668 8,171 Built by 40,333 stars this month",
+      "Star heygen-com / hyperframes Write HTML. Render video. Built for agents. TypeScript 66,540 6,017 Built by 15,041 stars this month",
+      "Star anthropics / financial-services Python 40,250 5,647 Built by 5,410 stars this month",
+      "Star vectorize-io / hindsight Hindsight: Agent Memory That Learns Python 51,135 6,144 Built by 27,228 stars this month",
+      "Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings JavaScript 31,007 1,945 Built by 22,054 stars this month",
+      "Star agent-substrate / substrate Agent Substrate: the core system Go 5,474 597 Built by 3,487 stars this month",
+      "Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. TypeScript 30,669 2,253 Built by 7,235 stars this month",
+      "Star NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents. Rust 16,600 1,810 Built by 7,956 stars this month",
+      "Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. JavaScript 283,083 42,048 Built by 23,023 stars this month",
+      "Star tashfeenahmed / freellmapi 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only. TypeScript 36,944 4,997 Built by 9,863 stars this month",
+      "Star anthropics / knowledge-work-plugins Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork Python 30,112 3,404 Built by 5,654 stars this month",
+      "Star NationalSecurityAgency / ghidra Ghidra is a software reverse engineering (SRE) framework Java 90,688 10,151 Built by 12,003 stars this month",
+      "Star cursor / plugins Cursor plugin specification and official plugins TypeScript 12,633 1,237 Built by 4,213 stars this month",
+      "Sponsor Star rohitg00 / ai-engineering-from-scratch Learn AI Engineering! Learn it. Build it. Ship it for others. Python 70,931 12,474 Built by 16,014 stars this month",
+      "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins. Python 42,445 4,518 Built by 5,112 stars this month",
+      "Star TencentCloud / Octop A smarter, self-hosted AI assistant — multi-user, multi-agent. Python 9,862 1,268 Built by 6,631 stars this month",
+      "Sponsor Star trycua / cua Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation. Rust 30,104 2,163 Built by 7,435 stars this month",
+      "Star longbridge / gpui-kit Rust GUI components for building fantastic cross-platform desktop application by using GPUI. Rust 18,078 1,097 Built by 3,500 stars this month",
+      "Star pingdotgg / t3code TypeScript 28,277 7,542 Built by 5,326 stars this month"
+    ]
+  }
+]

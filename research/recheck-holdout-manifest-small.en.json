@@ -1,0 +1,466 @@
+[
+  {
+    "id": "lighthouse-bf_emma-clean",
+    "duration": 69.35866666666666,
+    "kind": "clean",
+    "fault": null,
+    "findings": [
+      {
+        "kind": "omission",
+        "expected": "groups",
+        "heard": "",
+        "script_start": 539,
+        "script_end": 545,
+        "start": 28.48,
+        "end": 31.68,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 23.48,
+          "end": 36.68,
+          "expected_context": "guide asks everyone to climb in groups of four and leave enough space",
+          "heard": " But the old brass mechanism remains on display beside a working model.  The guide asks everyone to climb in groups of four and leave enough space for people  coming back down from the viewing platform.  From the top, fishing boats look like small",
+          "seconds": 58.21799999999348
+        }
+      }
+    ]
+  },
+  {
+    "id": "lighthouse-bf_emma-omission",
+    "duration": 61.983333333333334,
+    "kind": "omission",
+    "fault": {
+      "start": 20.526,
+      "end": 20.526,
+      "expected": "The original lamp was replaced with an electric light, but the old brass mechanism remains on display beside a working model.",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "omission",
+        "expected": "original lamp was replaced with an electric light, but the old brass mechanism remains on display beside a working model. The",
+        "heard": "",
+        "script_start": 381,
+        "script_end": 506,
+        "start": 19.16,
+        "end": 22.36,
+        "status": "review",
+        "recheck": {
+          "start": 14.16,
+          "end": 27.36,
+          "expected_context": "up the narrow stone staircase the original lamp was replaced with an electric light but the old brass mechanism remains on display beside a working model the guide asks everyone to climb in",
+          "heard": " A small exhibition explains how the keepers once carried heavy cans of fuel up the narrow  stone staircase.  The guide asks everyone to climb in groups of four and leave enough space for people coming  back down from the viewing platform.",
+          "seconds": 1.437000000034459
+        }
+      }
+    ]
+  },
+  {
+    "id": "lighthouse-bf_emma-repetition",
+    "duration": 76.478,
+    "kind": "repetition",
+    "fault": {
+      "start": 41.756,
+      "end": 48.87533333333333,
+      "expected": "",
+      "heard": "From the top, fishing boats look like small marks on a sheet of glass, while the hills behind the town fade into the afternoon haze."
+    },
+    "findings": [
+      {
+        "kind": "omission",
+        "expected": "groups",
+        "heard": "",
+        "script_start": 539,
+        "script_end": 545,
+        "start": 28.48,
+        "end": 31.68,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 23.48,
+          "end": 36.68,
+          "expected_context": "guide asks everyone to climb in groups of four and leave enough space",
+          "heard": " But the old brass mechanism remains on display beside a working model.  The guide asks everyone to climb in groups of four and leave enough space for people  coming back down from the viewing platform.  From the top, fishing boats look like small",
+          "seconds": 1.4690000000409782
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "A",
+        "heard": "From the top, fishing boats look like small marks on a sheet of glass, while the hills behind the town fade into the afternoon haze. A",
+        "script_start": 765,
+        "script_end": 766,
+        "start": 40.22,
+        "end": 50.52,
+        "status": "review"
+      },
+      {
+        "kind": "insertion",
+        "expected": "",
+        "heard": "correctly",
+        "script_start": 936,
+        "script_end": 936,
+        "start": 56.5,
+        "end": 59.72,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 51.5,
+          "end": 64.72,
+          "expected_context": "days today the light operates automatically and visiting technicians check the equipment",
+          "heard": " that damaged the landing steps, and kept the relief crew away for several days.  Today the light operates automatically, and visiting technicians check the equipment  at regular intervals throughout the year. Before leaving, most visitors stop",
+          "seconds": 1.4059999999590218
+        }
+      }
+    ]
+  },
+  {
+    "id": "lighthouse-bf_emma-substitution",
+    "duration": 69.46533333333333,
+    "kind": "substitution",
+    "fault": {
+      "start": 27.901333333333334,
+      "end": 34.74333333333333,
+      "expected": "four",
+      "heard": "five"
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "groups of four",
+        "heard": "of five",
+        "script_start": 539,
+        "script_end": 553,
+        "start": 28.48,
+        "end": 31.86,
+        "status": "review",
+        "recheck": {
+          "start": 23.48,
+          "end": 36.86,
+          "expected_context": "guide asks everyone to climb in groups of four and leave enough space for people",
+          "heard": " But the old brass mechanism remains on display beside a working model.  The guide asks everyone to climb in groups of five and leave enough space for people  coming back down from the viewing platform.  From the top, fishing boats look like small",
+          "seconds": 1.437999999965541
+        }
+      }
+    ]
+  },
+  {
+    "id": "lighthouse-af_sky-clean",
+    "duration": 73.04933333333334,
+    "kind": "clean",
+    "fault": null,
+    "findings": []
+  },
+  {
+    "id": "lighthouse-af_sky-omission",
+    "duration": 65.43933333333334,
+    "kind": "omission",
+    "fault": {
+      "start": 21.806,
+      "end": 21.806,
+      "expected": "The original lamp was replaced with an electric light, but the old brass mechanism remains on display beside a working model.",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "omission",
+        "expected": "original lamp was replaced with an electric light, but the old brass mechanism remains on display beside a working model. The",
+        "heard": "",
+        "script_start": 381,
+        "script_end": 506,
+        "start": 20.42,
+        "end": 23.62,
+        "status": "review",
+        "recheck": {
+          "start": 15.420000000000002,
+          "end": 28.62,
+          "expected_context": "up the narrow stone staircase the original lamp was replaced with an electric light but the old brass mechanism remains on display beside a working model the guide asks everyone to climb in",
+          "heard": " A small exhibition explains how the keepers once carried heavy cans of fuel up the narrow  stone staircase.  The guide asks everyone to climb in groups of four and leave enough space for people  coming back down from the viewing platform.",
+          "seconds": 1.390999999945052
+        }
+      }
+    ]
+  },
+  {
+    "id": "lighthouse-af_sky-repetition",
+    "duration": 80.19,
+    "kind": "repetition",
+    "fault": {
+      "start": 43.69733333333333,
+      "end": 50.838,
+      "expected": "",
+      "heard": "From the top, fishing boats look like small marks on a sheet of glass, while the hills behind the town fade into the afternoon haze."
+    },
+    "findings": [
+      {
+        "kind": "repetition",
+        "expected": "",
+        "heard": "From the top, fishing boats look like small marks on a sheet of glass, while the hills behind the town fade into the afternoon haze",
+        "script_start": 765,
+        "script_end": 765,
+        "start": 35.18,
+        "end": 51.84,
+        "status": "review"
+      }
+    ]
+  },
+  {
+    "id": "lighthouse-af_sky-substitution",
+    "duration": 73.13466666666666,
+    "kind": "substitution",
+    "fault": {
+      "start": 29.416,
+      "end": 36.642,
+      "expected": "four",
+      "heard": "five"
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "four",
+        "heard": "five",
+        "script_start": 549,
+        "script_end": 553,
+        "start": 30.32,
+        "end": 33.66,
+        "status": "review",
+        "recheck": {
+          "start": 25.32,
+          "end": 38.66,
+          "expected_context": "everyone to climb in groups of four and leave enough space for people",
+          "heard": " old brass mechanism remains on display beside a working model.  The guide asks everyone to climb in groups of five and leave enough space for people  coming back down from the viewing platform.  From the top, fishing boats look like sp...",
+          "seconds": 2.3589999999385327
+        }
+      }
+    ]
+  },
+  {
+    "id": "library-bf_emma-clean",
+    "duration": 76.24933333333334,
+    "kind": "clean",
+    "fault": null,
+    "findings": [
+      {
+        "kind": "insertion",
+        "expected": "",
+        "heard": "a",
+        "script_start": 710,
+        "script_end": 710,
+        "start": 38.18,
+        "end": 41.38,
+        "status": "review",
+        "recheck": {
+          "start": 33.18,
+          "end": 46.38,
+          "expected_context": "come back a damaged cable or missing safety cover means that an",
+          "heard": " equipment works, along with written instructions and a list of the parts that should come back.  A damaged cable or a missing safety cover means that an item is taken out of service  until someone qualified has repaired and inspected.",
+          "seconds": 1.327999999979511
+        }
+      },
+      {
+        "kind": "insertion",
+        "expected": "",
+        "heard": "ship",
+        "script_start": 965,
+        "script_end": 965,
+        "start": 52.4,
+        "end": 55.6,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 47.4,
+          "end": 60.6,
+          "expected_context": "can not afford the annual membership on busy weekends volunteers offer simple",
+          "heard": " Throwing fee pays for replacement parts and insurance, while a separate fund helps people  who cannot afford the annual membership.  On busy weekends, volunteers offer simple repair lessons so that members can learn how  to maintain objects.",
+          "seconds": 1.359000000054948
+        }
+      }
+    ]
+  },
+  {
+    "id": "library-bf_emma-omission",
+    "duration": 68.46866666666666,
+    "kind": "omission",
+    "fault": {
+      "start": 23.107333333333333,
+      "end": 23.107333333333333,
+      "expected": "Every returned item is checked by a volunteer, cleaned if necessary, and placed in a clearly marked area before it can be borrowed again.",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "omission",
+        "expected": "Every returned item is checked by a volunteer, cleaned if necessary, and placed in a clearly marked area before it can be borrowed again",
+        "heard": "",
+        "script_start": 410,
+        "script_end": 546,
+        "start": 21.18,
+        "end": 24.98,
+        "status": "review",
+        "recheck": {
+          "start": 16.18,
+          "end": 29.98,
+          "expected_context": "include sewing machines and camping equipment every returned item is checked by a volunteer cleaned if necessary and placed in a clearly marked area before it can be borrowed again members receive a short explanation of",
+          "heard": " requests were for ladders and gardening tools, but the collection soon expanded to include  sewing machines and camping equipment. Members receive a short explanation of how the equipment  works, along with written instructions and a list of the parts that should come.",
+          "seconds": 1.4690000000409782
+        }
+      }
+    ]
+  },
+  {
+    "id": "library-bf_emma-repetition",
+    "duration": 84.81933333333333,
+    "kind": "repetition",
+    "fault": {
+      "start": 47.025333333333336,
+      "end": 55.595333333333336,
+      "expected": "",
+      "heard": "A damaged cable or missing safety cover means that an item is taken out of service until someone qualified has repaired and inspected it."
+    },
+    "findings": [
+      {
+        "kind": "insertion",
+        "expected": "",
+        "heard": "a missing safety cover means that an item is taken out of service until someone qualified has repaired and inspected it. A damaged cable or a",
+        "script_start": 710,
+        "script_end": 710,
+        "start": 38.16,
+        "end": 49.86,
+        "status": "review"
+      }
+    ]
+  },
+  {
+    "id": "library-bf_emma-substitution",
+    "duration": 76.31333333333333,
+    "kind": "substitution",
+    "fault": {
+      "start": 47.025333333333336,
+      "end": 54.400666666666666,
+      "expected": "annual",
+      "heard": "monthly"
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "annual",
+        "heard": "monthly",
+        "script_start": 946,
+        "script_end": 952,
+        "start": 51.62,
+        "end": 54.94,
+        "status": "review",
+        "recheck": {
+          "start": 46.62,
+          "end": 59.94,
+          "expected_context": "people who can not afford the annual membership on busy weekends volunteers offer",
+          "heard": " The borrowing fee pays for replacement parts and insurance, while a separate fund helps  people who cannot afford the monthly membership.  On busy weekends, volunteers offer simple repair lessons, so that members can learn  how to maintain.",
+          "seconds": 1.3599999999860302
+        }
+      }
+    ]
+  },
+  {
+    "id": "library-af_sky-clean",
+    "duration": 79.25733333333334,
+    "kind": "clean",
+    "fault": null,
+    "findings": []
+  },
+  {
+    "id": "library-af_sky-omission",
+    "duration": 71.15666666666667,
+    "kind": "omission",
+    "fault": {
+      "start": 24.088666666666665,
+      "end": 24.088666666666665,
+      "expected": "Every returned item is checked by a volunteer, cleaned if necessary, and placed in a clearly marked area before it can be borrowed again.",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "omission",
+        "expected": "Every returned item is checked by a volunteer, cleaned if necessary, and placed in a clearly marked area before it can be borrowed again",
+        "heard": "",
+        "script_start": 410,
+        "script_end": 546,
+        "start": 22.16,
+        "end": 25.96,
+        "status": "review",
+        "recheck": {
+          "start": 17.16,
+          "end": 30.96,
+          "expected_context": "include sewing machines and camping equipment every returned item is checked by a volunteer cleaned if necessary and placed in a clearly marked area before it can be borrowed again members receive a short explanation of",
+          "heard": " were for ladders and gardening tools but the collection soon expanded to include  sewing machines and camping equipment. Members receive a short explanation of  how the equipment works along with written instructions and a list of the  parts that should...",
+          "seconds": 1.390999999945052
+        }
+      }
+    ]
+  },
+  {
+    "id": "library-af_sky-repetition",
+    "duration": 87.934,
+    "kind": "repetition",
+    "fault": {
+      "start": 48.732,
+      "end": 57.40866666666666,
+      "expected": "",
+      "heard": "A damaged cable or missing safety cover means that an item is taken out of service until someone qualified has repaired and inspected it."
+    },
+    "findings": [
+      {
+        "kind": "repetition",
+        "expected": "",
+        "heard": "A damaged cable or missing safety cover means that an item is taken out of service until someone qualified has repaired and inspected it",
+        "script_start": 829,
+        "script_end": 829,
+        "start": 38.5,
+        "end": 58.62,
+        "status": "review"
+      },
+      {
+        "kind": "replacement",
+        "expected": "than",
+        "heard": "then",
+        "script_start": 1286,
+        "script_end": 1290,
+        "start": 81.54,
+        "end": 85.18,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 76.54,
+          "end": 87.934,
+          "expected_context": "number of objects on the shelves than on whether those objects are useful",
+          "heard": " and arrive with questions and leave with advice from a neighbor. Its success depends less  on the number of objects on the shelves than on whether those objects are useful, safe,  and available when needed.",
+          "seconds": 1.297000000020489
+        }
+      }
+    ]
+  },
+  {
+    "id": "library-af_sky-substitution",
+    "duration": 79.25733333333334,
+    "kind": "substitution",
+    "fault": {
+      "start": 48.732,
+      "end": 56.29933333333333,
+      "expected": "annual",
+      "heard": "monthly"
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "annual",
+        "heard": "monthly",
+        "script_start": 946,
+        "script_end": 952,
+        "start": 53.54,
+        "end": 56.84,
+        "status": "review",
+        "recheck": {
+          "start": 48.54,
+          "end": 61.84,
+          "expected_context": "people who can not afford the annual membership on busy weekends volunteers offer",
+          "heard": " The borrowing fee pays for replacement parts and insurance,  while a separate fund helps people who cannot afford the monthly membership.  On busy weekends, volunteers offer simple repair lessons  so that members can learn how to...",
+          "seconds": 1.312000000034459
+        }
+      }
+    ]
+  }
+]

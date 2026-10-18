@@ -1,0 +1,332 @@
+[
+  {
+    "id": "garden-af_heart-clean",
+    "audio": "research\\audio\\garden-af_heart-clean.wav",
+    "script": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "spoken": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "kind": "clean",
+    "fault": null,
+    "voice": "af_heart",
+    "duration": 46.010666666666665
+  },
+  {
+    "id": "garden-af_heart-omission",
+    "audio": "research\\audio\\garden-af_heart-omission.wav",
+    "script": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "spoken": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "kind": "omission",
+    "fault": {
+      "start": 17.283333333333335,
+      "end": 17.283333333333335,
+      "expected": "They agreed to leave the wild flowers near the gate because bees were already visiting them.",
+      "heard": ""
+    },
+    "voice": "af_heart",
+    "duration": 40.83266666666667
+  },
+  {
+    "id": "garden-af_heart-repetition",
+    "audio": "research\\audio\\garden-af_heart-repetition.wav",
+    "script": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "spoken": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "kind": "repetition",
+    "fault": {
+      "start": 33.86266666666667,
+      "end": 39.74466666666667,
+      "expected": "",
+      "heard": "Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs."
+    },
+    "voice": "af_heart",
+    "duration": 51.89266666666666
+  },
+  {
+    "id": "garden-af_heart-substitution",
+    "audio": "research\\audio\\garden-af_heart-substitution.wav",
+    "script": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "spoken": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after two small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "kind": "substitution",
+    "fault": {
+      "start": 22.461333333333332,
+      "end": 28.066,
+      "expected": "one",
+      "heard": "two"
+    },
+    "voice": "af_heart",
+    "duration": 46.096
+  },
+  {
+    "id": "garden-am_michael-clean",
+    "audio": "research\\audio\\garden-am_michael-clean.wav",
+    "script": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "spoken": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "kind": "clean",
+    "fault": null,
+    "voice": "am_michael",
+    "duration": 51.00266666666667
+  },
+  {
+    "id": "garden-am_michael-omission",
+    "audio": "research\\audio\\garden-am_michael-omission.wav",
+    "script": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "spoken": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "kind": "omission",
+    "fault": {
+      "start": 19.054,
+      "end": 19.054,
+      "expected": "They agreed to leave the wild flowers near the gate because bees were already visiting them.",
+      "heard": ""
+    },
+    "voice": "am_michael",
+    "duration": 45.227333333333334
+  },
+  {
+    "id": "garden-am_michael-repetition",
+    "audio": "research\\audio\\garden-am_michael-repetition.wav",
+    "script": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "spoken": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "kind": "repetition",
+    "fault": {
+      "start": 37.745333333333335,
+      "end": 44.28866666666667,
+      "expected": "",
+      "heard": "Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs."
+    },
+    "voice": "am_michael",
+    "duration": 57.546
+  },
+  {
+    "id": "garden-am_michael-substitution",
+    "audio": "research\\audio\\garden-am_michael-substitution.wav",
+    "script": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after one small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "spoken": "On Saturday morning, the neighbors gathered beside the old railway station to begin a community garden. Maya brought a box of wooden labels, while Daniel arrived with a borrowed wheelbarrow and three shovels. The first job was to clear the stones from the narrow strip of land beside the fence. They agreed to leave the wild flowers near the gate because bees were already visiting them. Each household would look after two small bed and help water the shared fruit trees during the summer. Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs. By lunchtime, the empty patch had become a place where people stopped to talk and exchange ideas. Nobody expected a harvest that day, but everyone went home with a reason to come back the following week.",
+    "kind": "substitution",
+    "fault": {
+      "start": 24.829333333333334,
+      "end": 31.244666666666667,
+      "expected": "one",
+      "heard": "two"
+    },
+    "voice": "am_michael",
+    "duration": 51.04533333333333
+  },
+  {
+    "id": "museum-af_heart-clean",
+    "audio": "research\\audio\\museum-af_heart-clean.wav",
+    "script": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "spoken": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "kind": "clean",
+    "fault": null,
+    "voice": "af_heart",
+    "duration": 47.888
+  },
+  {
+    "id": "museum-af_heart-omission",
+    "audio": "research\\audio\\museum-af_heart-omission.wav",
+    "script": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "spoken": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "kind": "omission",
+    "fault": {
+      "start": 17.347333333333335,
+      "end": 17.347333333333335,
+      "expected": "A volunteer carefully photographed every piece before the conservation team began putting them back together.",
+      "heard": ""
+    },
+    "voice": "af_heart",
+    "duration": 41.238
+  },
+  {
+    "id": "museum-af_heart-repetition",
+    "audio": "research\\audio\\museum-af_heart-repetition.wav",
+    "script": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "spoken": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "kind": "repetition",
+    "fault": {
+      "start": 35.164,
+      "end": 40.42733333333334,
+      "expected": "",
+      "heard": "You can see a thin line near the base where a missing piece was replaced with plain material."
+    },
+    "voice": "af_heart",
+    "duration": 53.15133333333333
+  },
+  {
+    "id": "museum-af_heart-substitution",
+    "audio": "research\\audio\\museum-af_heart-substitution.wav",
+    "script": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "spoken": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The green cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "kind": "substitution",
+    "fault": {
+      "start": 6.458,
+      "end": 11.657333333333334,
+      "expected": "blue",
+      "heard": "green"
+    },
+    "voice": "af_heart",
+    "duration": 48.016
+  },
+  {
+    "id": "museum-am_michael-clean",
+    "audio": "research\\audio\\museum-am_michael-clean.wav",
+    "script": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "spoken": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "kind": "clean",
+    "fault": null,
+    "voice": "am_michael",
+    "duration": 52.496
+  },
+  {
+    "id": "museum-am_michael-omission",
+    "audio": "research\\audio\\museum-am_michael-omission.wav",
+    "script": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "spoken": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "kind": "omission",
+    "fault": {
+      "start": 18.904666666666667,
+      "end": 18.904666666666667,
+      "expected": "A volunteer carefully photographed every piece before the conservation team began putting them back together.",
+      "heard": ""
+    },
+    "voice": "am_michael",
+    "duration": 45.504666666666665
+  },
+  {
+    "id": "museum-am_michael-repetition",
+    "audio": "research\\audio\\museum-am_michael-repetition.wav",
+    "script": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "spoken": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "kind": "repetition",
+    "fault": {
+      "start": 38.59866666666667,
+      "end": 44.65133333333333,
+      "expected": "",
+      "heard": "You can see a thin line near the base where a missing piece was replaced with plain material."
+    },
+    "voice": "am_michael",
+    "duration": 58.54866666666667
+  },
+  {
+    "id": "museum-am_michael-substitution",
+    "audio": "research\\audio\\museum-am_michael-substitution.wav",
+    "script": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The blue cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "spoken": "Welcome to the museum workshop, where ordinary objects tell surprising stories about the people who made them. The green cup in the first cabinet was discovered beneath the floor of a village bakery. Its handle was broken, but the painted pattern survived more than a century of dust and damp. A volunteer carefully photographed every piece before the conservation team began putting them back together. The repair took twelve days, including long periods when the glue had to dry without being disturbed. You can see a thin line near the base where a missing piece was replaced with plain material. The team chose to make the repair visible so that visitors could distinguish the original object from modern work. At the end of the gallery, a short film explains how the same approach protects much larger objects.",
+    "kind": "substitution",
+    "fault": {
+      "start": 7.034,
+      "end": 12.681333333333333,
+      "expected": "blue",
+      "heard": "green"
+    },
+    "voice": "am_michael",
+    "duration": 52.56
+  },
+  {
+    "id": "backup-af_heart-clean",
+    "audio": "research\\audio\\backup-af_heart-clean.wav",
+    "script": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "spoken": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "kind": "clean",
+    "fault": null,
+    "voice": "af_heart",
+    "duration": 48.101333333333336
+  },
+  {
+    "id": "backup-af_heart-omission",
+    "audio": "research\\audio\\backup-af_heart-omission.wav",
+    "script": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "spoken": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "kind": "omission",
+    "fault": {
+      "start": 18.136666666666667,
+      "end": 18.136666666666667,
+      "expected": "Open several copied files on another computer to check that they can actually be read.",
+      "heard": ""
+    },
+    "voice": "af_heart",
+    "duration": 42.902
+  },
+  {
+    "id": "backup-af_heart-repetition",
+    "audio": "research\\audio\\backup-af_heart-repetition.wav",
+    "script": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "spoken": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "kind": "repetition",
+    "fault": {
+      "start": 34.43866666666667,
+      "end": 39.958000000000006,
+      "expected": "",
+      "heard": "Write down any software licenses and make sure you can sign in to the accounts you will need later."
+    },
+    "voice": "af_heart",
+    "duration": 53.620666666666665
+  },
+  {
+    "id": "backup-af_heart-substitution",
+    "audio": "research\\audio\\backup-af_heart-substitution.wav",
+    "script": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "spoken": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer disconnected until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "kind": "substitution",
+    "fault": {
+      "start": 34.43866666666667,
+      "end": 40.982,
+      "expected": "unchanged",
+      "heard": "disconnected"
+    },
+    "voice": "af_heart",
+    "duration": 48.101333333333336
+  },
+  {
+    "id": "backup-am_michael-clean",
+    "audio": "research\\audio\\backup-am_michael-clean.wav",
+    "script": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "spoken": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "kind": "clean",
+    "fault": null,
+    "voice": "am_michael",
+    "duration": 53.776
+  },
+  {
+    "id": "backup-am_michael-omission",
+    "audio": "research\\audio\\backup-am_michael-omission.wav",
+    "script": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "spoken": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "kind": "omission",
+    "fault": {
+      "start": 20.163333333333334,
+      "end": 20.163333333333334,
+      "expected": "Open several copied files on another computer to check that they can actually be read.",
+      "heard": ""
+    },
+    "voice": "am_michael",
+    "duration": 47.787333333333336
+  },
+  {
+    "id": "backup-am_michael-repetition",
+    "audio": "research\\audio\\backup-am_michael-repetition.wav",
+    "script": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "spoken": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "kind": "repetition",
+    "fault": {
+      "start": 38.492,
+      "end": 44.565999999999995,
+      "expected": "",
+      "heard": "Write down any software licenses and make sure you can sign in to the accounts you will need later."
+    },
+    "voice": "am_michael",
+    "duration": 59.85
+  },
+  {
+    "id": "backup-am_michael-substitution",
+    "audio": "research\\audio\\backup-am_michael-substitution.wav",
+    "script": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer unchanged until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "spoken": "Before you replace a computer, take a few minutes to check that your important files are stored somewhere else. Start with the documents folder, but remember that some applications keep their projects in a separate location. Copy the files to an external drive and wait until the transfer has finished before disconnecting it. Open several copied files on another computer to check that they can actually be read. A progress bar reaching the end does not prove that every photograph or spreadsheet is usable. Write down any software licenses and make sure you can sign in to the accounts you will need later. Keep the original computer disconnected until the new one is working and you have checked your most important tasks. This short rehearsal is usually easier than discovering a missing project after the old drive has been erased.",
+    "kind": "substitution",
+    "fault": {
+      "start": 38.492,
+      "end": 45.782,
+      "expected": "unchanged",
+      "heard": "disconnected"
+    },
+    "voice": "am_michael",
+    "duration": 53.605333333333334
+  }
+]

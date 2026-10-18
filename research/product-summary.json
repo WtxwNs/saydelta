@@ -1,0 +1,252 @@
+[
+  {
+    "corpus": "audio",
+    "hits": 18,
+    "planted_defects": 18,
+    "clean_suspects": 0,
+    "clean_minutes": 4.987911111111112,
+    "max_review_fraction": 0.281735376867637,
+    "details": [
+      {
+        "id": "garden-af_heart-omission",
+        "hit": true,
+        "review_fraction": 0.08620548906920927
+      },
+      {
+        "id": "garden-af_heart-repetition",
+        "hit": true,
+        "review_fraction": 0.281735376867637
+      },
+      {
+        "id": "garden-af_heart-substitution",
+        "hit": true,
+        "review_fraction": 0.07158972578965632
+      },
+      {
+        "id": "garden-am_michael-omission",
+        "hit": true,
+        "review_fraction": 0.0787134623605195
+      },
+      {
+        "id": "garden-am_michael-repetition",
+        "hit": true,
+        "review_fraction": 0.2686546415041879
+      },
+      {
+        "id": "garden-am_michael-substitution",
+        "hit": true,
+        "review_fraction": 0.08071256921951732
+      },
+      {
+        "id": "museum-af_heart-omission",
+        "hit": true,
+        "review_fraction": 0.08244822736311166
+      },
+      {
+        "id": "museum-af_heart-repetition",
+        "hit": true,
+        "review_fraction": 0.25700201939117245
+      },
+      {
+        "id": "museum-af_heart-substitution",
+        "hit": true,
+        "review_fraction": 0.06831056314561812
+      },
+      {
+        "id": "museum-am_michael-omission",
+        "hit": true,
+        "review_fraction": 0.0747176113805178
+      },
+      {
+        "id": "museum-am_michael-repetition",
+        "hit": true,
+        "review_fraction": 0.2503899889550574
+      },
+      {
+        "id": "museum-am_michael-substitution",
+        "hit": true,
+        "review_fraction": 0.06316590563165905
+      },
+      {
+        "id": "backup-af_heart-omission",
+        "hit": true,
+        "review_fraction": 0.07691949093282366
+      },
+      {
+        "id": "backup-af_heart-repetition",
+        "hit": true,
+        "review_fraction": 0.2521415871989656
+      },
+      {
+        "id": "backup-af_heart-substitution",
+        "hit": true,
+        "review_fraction": 0.07484200022175409
+      },
+      {
+        "id": "backup-am_michael-omission",
+        "hit": true,
+        "review_fraction": 0.06947447719758373
+      },
+      {
+        "id": "backup-am_michael-repetition",
+        "hit": true,
+        "review_fraction": 0.24461152882205514
+      },
+      {
+        "id": "backup-am_michael-substitution",
+        "hit": true,
+        "review_fraction": 0.06753059397074913
+      }
+    ]
+  },
+  {
+    "corpus": "holdout",
+    "hits": 11,
+    "planted_defects": 12,
+    "clean_suspects": 1,
+    "clean_minutes": 4.965244444444445,
+    "max_review_fraction": 0.2288079696135738,
+    "details": [
+      {
+        "id": "lighthouse-bf_emma-omission",
+        "hit": true,
+        "review_fraction": 0.05162678139284753
+      },
+      {
+        "id": "lighthouse-bf_emma-repetition",
+        "hit": true,
+        "review_fraction": 0.13467925416459642
+      },
+      {
+        "id": "lighthouse-bf_emma-substitution",
+        "hit": true,
+        "review_fraction": 0.048657363864949406
+      },
+      {
+        "id": "lighthouse-af_sky-omission",
+        "hit": true,
+        "review_fraction": 0.048900253670065896
+      },
+      {
+        "id": "lighthouse-af_sky-repetition",
+        "hit": true,
+        "review_fraction": 0.20775657812694856
+      },
+      {
+        "id": "lighthouse-af_sky-substitution",
+        "hit": true,
+        "review_fraction": 0.04566917649632637
+      },
+      {
+        "id": "library-bf_emma-omission",
+        "hit": true,
+        "review_fraction": 0.055499839342570335
+      },
+      {
+        "id": "library-bf_emma-repetition",
+        "hit": false,
+        "review_fraction": 0.13794024947142558
+      },
+      {
+        "id": "library-bf_emma-substitution",
+        "hit": true,
+        "review_fraction": 0.04350484843190356
+      },
+      {
+        "id": "library-af_sky-omission",
+        "hit": true,
+        "review_fraction": 0.05340328851829298
+      },
+      {
+        "id": "library-af_sky-repetition",
+        "hit": true,
+        "review_fraction": 0.2288079696135738
+      },
+      {
+        "id": "library-af_sky-substitution",
+        "hit": true,
+        "review_fraction": 0.041636525747354665
+      }
+    ]
+  },
+  {
+    "corpus": "confirmation",
+    "hits": 9,
+    "planted_defects": 9,
+    "clean_suspects": 3,
+    "clean_minutes": 6.6294,
+    "max_review_fraction": 0.1876862143405113,
+    "details": [
+      {
+        "id": "weatherstation-am_adam-omission",
+        "hit": true,
+        "review_fraction": 0.07016871952345453
+      },
+      {
+        "id": "weatherstation-am_adam-repetition",
+        "hit": true,
+        "review_fraction": 0.1876862143405113
+      },
+      {
+        "id": "weatherstation-am_adam-substitution",
+        "hit": true,
+        "review_fraction": 0.06302279547921587
+      },
+      {
+        "id": "weatherstation-af_nicole-omission",
+        "hit": true,
+        "review_fraction": 0.0223053948811009
+      },
+      {
+        "id": "weatherstation-af_nicole-repetition",
+        "hit": true,
+        "review_fraction": 0.1595854471977491
+      },
+      {
+        "id": "weatherstation-af_nicole-substitution",
+        "hit": true,
+        "review_fraction": 0.01934304002250833
+      },
+      {
+        "id": "weatherstation-bm_george-omission",
+        "hit": true,
+        "review_fraction": 0.07846667482389144
+      },
+      {
+        "id": "weatherstation-bm_george-repetition",
+        "hit": true,
+        "review_fraction": 0.18392814722338746
+      },
+      {
+        "id": "weatherstation-bm_george-substitution",
+        "hit": true,
+        "review_fraction": 0.05414868053365807
+      }
+    ]
+  },
+  {
+    "corpus": "human",
+    "hits": 3,
+    "planted_defects": 3,
+    "clean_suspects": 20,
+    "clean_minutes": 3.8748322916666664,
+    "max_review_fraction": 0.5442234477599829,
+    "details": [
+      {
+        "id": "human-0-omission",
+        "hit": true,
+        "review_fraction": 0.2595484534834453
+      },
+      {
+        "id": "human-1-omission",
+        "hit": true,
+        "review_fraction": 0.11691732517631054
+      },
+      {
+        "id": "human-2-omission",
+        "hit": true,
+        "review_fraction": 0.5442234477599829
+      }
+    ]
+  }
+]

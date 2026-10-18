@@ -1,0 +1,482 @@
+[
+  {
+    "id": "weatherstation-am_adam-clean",
+    "duration": 104.44933333333333,
+    "kind": "clean",
+    "fault": null,
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "helped",
+        "heard": "help",
+        "script_start": 127,
+        "script_end": 133,
+        "start": 5.04,
+        "end": 8.32,
+        "status": "review",
+        "recheck": {
+          "start": 0.040000000000000036,
+          "end": 13.32,
+          "expected_context": "the day and night the students helped choose its position away from tall",
+          "heard": " On the roof of a small school, a weather station quietly records changes in the air  throughout the day and night.  The students help choose its position, away from tall walls and warm air rising from the  building's ventilation system.",
+          "seconds": 1.391
+        }
+      }
+    ]
+  },
+  {
+    "id": "weatherstation-am_adam-omission",
+    "duration": 97.47933333333333,
+    "kind": "omission",
+    "fault": {
+      "start": 20.05666666666667,
+      "end": 20.05666666666667,
+      "expected": "Every morning, a different pair of students checks the equipment and compares the latest readings with the notes from the previous day.",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "helped",
+        "heard": "help",
+        "script_start": 127,
+        "script_end": 133,
+        "start": 5.04,
+        "end": 8.32,
+        "status": "review",
+        "recheck": {
+          "start": 0.040000000000000036,
+          "end": 13.32,
+          "expected_context": "the day and night the students helped choose its position away from tall",
+          "heard": " On the roof of a small school, a weather station quietly records changes in the air  throughout the day and night.  The students help choose its position, away from tall walls and warm air rising from the  building's ventilation system.",
+          "seconds": 1.344
+        }
+      },
+      {
+        "kind": "omission",
+        "expected": "Every morning, a different pair of students checks the equipment and compares the latest readings with the notes from the previous day",
+        "heard": "",
+        "script_start": 369,
+        "script_end": 503,
+        "start": 18.02,
+        "end": 21.58,
+        "status": "review",
+        "recheck": {
+          "start": 13.02,
+          "end": 26.58,
+          "expected_context": "of the wind above the playground every morning a different pair of students checks the equipment and compares the latest readings with the notes from the previous day they soon discover that a single",
+          "heard": " A shallow container measures rainfall, while another instrument records the direction and  strength of the wind above the playground.  They soon discover that a single measurement tells only a small part of the story, especially  when the weather is changing quickly.",
+          "seconds": 1.375
+        }
+      }
+    ]
+  },
+  {
+    "id": "weatherstation-am_adam-repetition",
+    "duration": 112.102,
+    "kind": "repetition",
+    "fault": {
+      "start": 41.756,
+      "end": 49.40866666666667,
+      "expected": "",
+      "heard": "One bright afternoon can follow a week of heavy rain, and a cold morning does not necessarily mean that the whole month has been cold."
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "helped",
+        "heard": "help",
+        "script_start": 127,
+        "script_end": 133,
+        "start": 5.04,
+        "end": 8.32,
+        "status": "review",
+        "recheck": {
+          "start": 0.040000000000000036,
+          "end": 13.32,
+          "expected_context": "the day and night the students helped choose its position away from tall",
+          "heard": " On the roof of a small school, a weather station quietly records changes in the air  throughout the day and night.  The students help choose its position, away from tall walls and warm air rising from the  building's ventilation system.",
+          "seconds": 1.344
+        }
+      },
+      {
+        "kind": "repetition",
+        "expected": "",
+        "heard": "One bright afternoon can follow a week of heavy rain, and a cold morning does not necessarily mean that the whole month has been cold",
+        "script_start": 637,
+        "script_end": 637,
+        "start": 32.74,
+        "end": 50.5,
+        "status": "review"
+      }
+    ]
+  },
+  {
+    "id": "weatherstation-am_adam-substitution",
+    "duration": 104.40666666666667,
+    "kind": "substitution",
+    "fault": {
+      "start": 65.46066666666667,
+      "end": 72.94266666666667,
+      "expected": "six",
+      "heard": "nine"
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "helped",
+        "heard": "help",
+        "script_start": 127,
+        "script_end": 133,
+        "start": 5.04,
+        "end": 8.32,
+        "status": "review",
+        "recheck": {
+          "start": 0.040000000000000036,
+          "end": 13.32,
+          "expected_context": "the day and night the students helped choose its position away from tall",
+          "heard": " On the roof of a small school, a weather station quietly records changes in the air  throughout the day and night.  The students help choose its position, away from tall walls and warm air rising from the  building's ventilation system.",
+          "seconds": 1.422
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "six",
+        "heard": "nine",
+        "script_start": 1203,
+        "script_end": 1206,
+        "start": 64.2,
+        "end": 67.5,
+        "status": "review",
+        "recheck": {
+          "start": 59.2,
+          "end": 72.5,
+          "expected_context": "later can understand what happened after six months the class shares a short",
+          "heard": " of being filled with invented readings, so that anyone using the records later can understand  what happened. After nine months, the class shares a short report with a nearby garden  whose volunteers want to plan their watering more carefully.",
+          "seconds": 1.343
+        }
+      }
+    ]
+  },
+  {
+    "id": "weatherstation-af_nicole-clean",
+    "duration": 170.668,
+    "kind": "clean",
+    "fault": null,
+    "findings": [
+      {
+        "kind": "insertion",
+        "expected": "",
+        "heard": "powers",
+        "script_start": 1875,
+        "script_end": 1875,
+        "start": 168.14,
+        "end": 170.668,
+        "status": "review"
+      }
+    ]
+  },
+  {
+    "id": "weatherstation-af_nicole-omission",
+    "duration": 158.706,
+    "kind": "omission",
+    "fault": {
+      "start": 31.619333333333334,
+      "end": 31.619333333333334,
+      "expected": "Every morning, a different pair of students checks the equipment and compares the latest readings with the notes from the previous day.",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "omission",
+        "expected": "Every morning, a different pair of students checks the equipment and compares the latest readings with the notes from the previous day",
+        "heard": "",
+        "script_start": 369,
+        "script_end": 503,
+        "start": 29.5,
+        "end": 33.04,
+        "status": "review",
+        "recheck": {
+          "start": 24.5,
+          "end": 38.04,
+          "expected_context": "of the wind above the playground every morning a different pair of students checks the equipment and compares the latest readings with the notes from the previous day they soon discover that a single",
+          "heard": " Another instrument records the direction and strength of the wind above the playground.  They soon discover that a single measurement tells only a small part of the store.",
+          "seconds": 1.172
+        }
+      }
+    ]
+  },
+  {
+    "id": "weatherstation-af_nicole-repetition",
+    "duration": 184.102,
+    "kind": "repetition",
+    "fault": {
+      "start": 68.7,
+      "end": 82.134,
+      "expected": "",
+      "heard": "One bright afternoon can follow a week of heavy rain, and a cold morning does not necessarily mean that the whole month has been cold."
+    },
+    "findings": [
+      {
+        "kind": "repetition",
+        "expected": "",
+        "heard": "One bright afternoon can follow a week of heavy rain, and a cold morning does not necessarily mean that the whole month has been cold",
+        "script_start": 772,
+        "script_end": 772,
+        "start": 53.82,
+        "end": 83.2,
+        "status": "review"
+      }
+    ]
+  },
+  {
+    "id": "weatherstation-af_nicole-substitution",
+    "duration": 170.604,
+    "kind": "substitution",
+    "fault": {
+      "start": 107.53,
+      "end": 119.47066666666667,
+      "expected": "six",
+      "heard": "nine"
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "six",
+        "heard": "nine",
+        "script_start": 1203,
+        "script_end": 1206,
+        "start": 106.32,
+        "end": 109.62,
+        "status": "review",
+        "recheck": {
+          "start": 101.32,
+          "end": 114.62,
+          "expected_context": "later can understand what happened after six months the class shares a short",
+          "heard": " so that anyone using the records later can understand what happened after nine months.  The class shares a short report with a nearby garden.",
+          "seconds": 1.187
+        }
+      }
+    ]
+  },
+  {
+    "id": "weatherstation-bm_george-clean",
+    "duration": 122.64666666666666,
+    "kind": "clean",
+    "fault": null,
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "helped",
+        "heard": "help",
+        "script_start": 127,
+        "script_end": 133,
+        "start": 6.06,
+        "end": 9.4,
+        "status": "review",
+        "recheck": {
+          "start": 1.0599999999999996,
+          "end": 14.4,
+          "expected_context": "the day and night the students helped choose its position away from tall",
+          "heard": " school. A weather station quietly records changes in the air throughout the day and  night. The students help choose its position, away from tall walls and warm air rising from  the building's ventilation system.",
+          "seconds": 1.281
+        }
+      },
+      {
+        "kind": "insertion",
+        "expected": "",
+        "heard": "readings",
+        "script_start": 458,
+        "script_end": 458,
+        "start": 26.56,
+        "end": 30.02,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 21.56,
+          "end": 35.019999999999996,
+          "expected_context": "the equipment and compares the latest readings with the notes from the",
+          "heard": " above the playground. Every morning, a different pair of students checks the equipment and compares  the latest readings with the notes from the previous day. They soon discover that a single  measurement tells only a...",
+          "seconds": 1.437
+        }
+      }
+    ]
+  },
+  {
+    "id": "weatherstation-bm_george-omission",
+    "duration": 114.418,
+    "kind": "omission",
+    "fault": {
+      "start": 23.171333333333333,
+      "end": 23.171333333333333,
+      "expected": "Every morning, a different pair of students checks the equipment and compares the latest readings with the notes from the previous day.",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "helped",
+        "heard": "help",
+        "script_start": 127,
+        "script_end": 133,
+        "start": 6.06,
+        "end": 9.379999999999999,
+        "status": "review",
+        "recheck": {
+          "start": 1.0599999999999996,
+          "end": 14.379999999999999,
+          "expected_context": "the day and night the students helped choose its position away from tall",
+          "heard": " school. A weather station quietly records changes in the air throughout the day and  night. The students help choose its position, away from tall walls and warm air rising from  the building's ventilation system.",
+          "seconds": 1.312
+        }
+      },
+      {
+        "kind": "omission",
+        "expected": "Every morning, a different pair of students checks the equipment and compares the latest readings with the notes from the previous day",
+        "heard": "",
+        "script_start": 369,
+        "script_end": 503,
+        "start": 21.06,
+        "end": 24.6,
+        "status": "review",
+        "recheck": {
+          "start": 16.06,
+          "end": 29.6,
+          "expected_context": "of the wind above the playground every morning a different pair of students checks the equipment and compares the latest readings with the notes from the previous day they soon discover that a single",
+          "heard": " measures rainfall, while another instrument records the direction and strength of the  wind above the playground. They soon discover that a single measurement tells only a small  part of the story, especially...",
+          "seconds": 1.25
+        }
+      },
+      {
+        "kind": "insertion",
+        "expected": "",
+        "heard": "Thank you for watching, and I'll see you next time",
+        "script_start": 1880,
+        "script_end": 1880,
+        "start": 112.3,
+        "end": 114.418,
+        "status": "review"
+      }
+    ]
+  },
+  {
+    "id": "weatherstation-bm_george-repetition",
+    "duration": 131.89933333333335,
+    "kind": "repetition",
+    "fault": {
+      "start": 49.41466666666667,
+      "end": 58.66733333333333,
+      "expected": "",
+      "heard": "One bright afternoon can follow a week of heavy rain, and a cold morning does not necessarily mean that the whole month has been cold."
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "helped",
+        "heard": "help",
+        "script_start": 127,
+        "script_end": 133,
+        "start": 6.06,
+        "end": 9.4,
+        "status": "review",
+        "recheck": {
+          "start": 1.0599999999999996,
+          "end": 14.4,
+          "expected_context": "the day and night the students helped choose its position away from tall",
+          "heard": " school. A weather station quietly records changes in the air throughout the day and  night. The students help choose its position, away from tall walls and warm air rising from  the building's ventilation system.",
+          "seconds": 1.313
+        }
+      },
+      {
+        "kind": "insertion",
+        "expected": "",
+        "heard": "readings",
+        "script_start": 467,
+        "script_end": 467,
+        "start": 27.02,
+        "end": 30.22,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 22.02,
+          "end": 35.22,
+          "expected_context": "equipment and compares the latest readings with the notes from the previous",
+          "heard": " the playground. Every morning, a different pair of students checks the equipment and  compares the latest readings with the notes from the previous day. They soon discover  that a single measurement tells only a small...",
+          "seconds": 1.406
+        }
+      },
+      {
+        "kind": "repetition",
+        "expected": "",
+        "heard": "One bright afternoon can follow a week of heavy rain, and a cold morning does not necessarily mean that the whole month has been cold",
+        "script_start": 637,
+        "script_end": 637,
+        "start": 38.7,
+        "end": 59.62,
+        "status": "review"
+      }
+    ]
+  },
+  {
+    "id": "weatherstation-bm_george-substitution",
+    "duration": 122.62533333333333,
+    "kind": "substitution",
+    "fault": {
+      "start": 77.53533333333333,
+      "end": 86.276,
+      "expected": "six",
+      "heard": "nine"
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "helped",
+        "heard": "help",
+        "script_start": 127,
+        "script_end": 133,
+        "start": 6.06,
+        "end": 9.4,
+        "status": "review",
+        "recheck": {
+          "start": 1.0599999999999996,
+          "end": 14.4,
+          "expected_context": "the day and night the students helped choose its position away from tall",
+          "heard": " school. A weather station quietly records changes in the air throughout the day and  night. The students help choose its position, away from tall walls and warm air rising from  the building's ventilation system.",
+          "seconds": 1.297
+        }
+      },
+      {
+        "kind": "insertion",
+        "expected": "",
+        "heard": "readings",
+        "script_start": 467,
+        "script_end": 467,
+        "start": 27.02,
+        "end": 30.22,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 22.02,
+          "end": 35.22,
+          "expected_context": "equipment and compares the latest readings with the notes from the previous",
+          "heard": " the playground. Every morning, a different pair of students checks the equipment and  compares the latest readings with the notes from the previous day. They soon discover  that a single measurement tells only a small...",
+          "seconds": 1.406
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "six",
+        "heard": "nine",
+        "script_start": 1203,
+        "script_end": 1206,
+        "start": 76.28,
+        "end": 79.58,
+        "status": "review",
+        "recheck": {
+          "start": 71.28,
+          "end": 84.58,
+          "expected_context": "later can understand what happened after six months the class shares a short",
+          "heard": " with invented readings, so that anyone using the records later can understand  what happened. After nine months, the class shares a short report with a  nearby garden whose volunteers want to plan their...",
+          "seconds": 1.297
+        }
+      }
+    ]
+  }
+]

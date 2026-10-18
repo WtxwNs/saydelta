@@ -1,0 +1,91 @@
+{
+  "duration": 996.275375,
+  "findings": [
+    {
+      "kind": "omission",
+      "expected": "They agreed to leave the wild flowers near the gate because bees were already visiting them",
+      "heard": "",
+      "script_start": 295,
+      "script_end": 386,
+      "start": 15.3,
+      "end": 18.82,
+      "status": "review"
+    },
+    {
+      "kind": "replacement",
+      "expected": "stopped",
+      "heard": "stop",
+      "script_start": 1457,
+      "script_end": 1464,
+      "start": 81.56,
+      "end": 84.88,
+      "status": "review"
+    },
+    {
+      "kind": "insertion",
+      "expected": "",
+      "heard": "space",
+      "script_start": 5279,
+      "script_end": 5279,
+      "start": 315.58,
+      "end": 318.84,
+      "status": "review"
+    },
+    {
+      "kind": "insertion",
+      "expected": "",
+      "heard": "a",
+      "script_start": 8186,
+      "script_end": 8186,
+      "start": 478.68,
+      "end": 481.88,
+      "status": "review"
+    },
+    {
+      "kind": "replacement",
+      "expected": "helped",
+      "heard": "help",
+      "script_start": 10327,
+      "script_end": 10333,
+      "start": 602.04,
+      "end": 605.34,
+      "status": "review"
+    },
+    {
+      "kind": "insertion",
+      "expected": "",
+      "heard": "Students",
+      "script_start": 13749,
+      "script_end": 13749,
+      "start": 851.58,
+      "end": 854.7800000000001,
+      "status": "review"
+    },
+    {
+      "kind": "replacement",
+      "expected": "helped",
+      "heard": "help",
+      "script_start": 14091,
+      "script_end": 14097,
+      "start": 879.18,
+      "end": 882.52,
+      "status": "review"
+    }
+  ],
+  "warnings": [
+    "Audio reaches full scale and may contain clipping. This review checks words, not sound quality."
+  ],
+  "provenance": {
+    "model": "small.en",
+    "device": "cpu",
+    "language": "en",
+    "faster_whisper": "1.2.1",
+    "beam_size": 5,
+    "reference_prompt": false,
+    "recheck": "unique-context-v1",
+    "processing_seconds": 81.688,
+    "timing_scope": "Recognition and rechecks only; excludes decoding, model loading/download and report encoding.",
+    "note": "Recognition differences are suggestions for human review, not verified errors."
+  },
+  "html_bytes": 16222867
+}

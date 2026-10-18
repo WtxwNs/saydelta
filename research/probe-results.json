@@ -1,0 +1,689 @@
+[
+  {
+    "id": "garden-af_heart-clean",
+    "duration": 46.010666666666665,
+    "asr_seconds": 1.812000000034459,
+    "findings": [],
+    "fault": null
+  },
+  {
+    "id": "garden-af_heart-omission",
+    "duration": 40.83266666666667,
+    "asr_seconds": 1.4689999999245629,
+    "findings": [
+      {
+        "kind": "delete",
+        "expected": "they agreed to leave the wild flowers near the gate because bees were already visiting them",
+        "heard": "",
+        "start": 15.2,
+        "end": 18.76
+      }
+    ],
+    "fault": {
+      "start": 17.283333333333335,
+      "end": 17.283333333333335,
+      "expected": "They agreed to leave the wild flowers near the gate because bees were already visiting them.",
+      "heard": ""
+    }
+  },
+  {
+    "id": "garden-af_heart-repetition",
+    "duration": 51.89266666666666,
+    "asr_seconds": 1.7650000000139698,
+    "findings": [
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "before planting anything they tested the soil and marked a wide path for visitors who use wheelchairs",
+        "start": 32.3,
+        "end": 40.62
+      }
+    ],
+    "fault": {
+      "start": 33.86266666666667,
+      "end": 39.74466666666667,
+      "expected": "",
+      "heard": "Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs."
+    }
+  },
+  {
+    "id": "garden-af_heart-substitution",
+    "duration": 46.096,
+    "asr_seconds": 1.625,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "one",
+        "heard": "two",
+        "start": 22.38,
+        "end": 25.64
+      }
+    ],
+    "fault": {
+      "start": 22.461333333333332,
+      "end": 28.066,
+      "expected": "one",
+      "heard": "two"
+    }
+  },
+  {
+    "id": "garden-am_michael-clean",
+    "duration": 51.00266666666667,
+    "asr_seconds": 2.0160000000614673,
+    "findings": [
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "them",
+        "start": 22.88,
+        "end": 26.08
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "everyone",
+        "start": 45.72,
+        "end": 49.04
+      }
+    ],
+    "fault": null
+  },
+  {
+    "id": "garden-am_michael-omission",
+    "duration": 45.227333333333334,
+    "asr_seconds": 1.8439999999245629,
+    "findings": [
+      {
+        "kind": "delete",
+        "expected": "they agreed to leave the wild flowers near the gate because bees were already visiting them",
+        "heard": "",
+        "start": 16.96,
+        "end": 20.56
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "summer",
+        "start": 23.16,
+        "end": 26.46
+      }
+    ],
+    "fault": {
+      "start": 19.054,
+      "end": 19.054,
+      "expected": "They agreed to leave the wild flowers near the gate because bees were already visiting them.",
+      "heard": ""
+    }
+  },
+  {
+    "id": "garden-am_michael-repetition",
+    "duration": 57.546,
+    "asr_seconds": 2.0780000000959262,
+    "findings": [
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "them",
+        "start": 22.88,
+        "end": 26.08
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "before planting anything they tested the soil and marked a wide path for visitors who use wheelchairs",
+        "start": 29.68,
+        "end": 38.54
+      }
+    ],
+    "fault": {
+      "start": 37.745333333333335,
+      "end": 44.28866666666667,
+      "expected": "",
+      "heard": "Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs."
+    }
+  },
+  {
+    "id": "garden-am_michael-substitution",
+    "duration": 51.04533333333333,
+    "asr_seconds": 1.952999999979511,
+    "findings": [
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "them",
+        "start": 22.9,
+        "end": 26.099999999999998
+      },
+      {
+        "kind": "replace",
+        "expected": "one",
+        "heard": "too",
+        "start": 24.84,
+        "end": 28.08
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "everyone",
+        "start": 45.76,
+        "end": 49.08
+      }
+    ],
+    "fault": {
+      "start": 24.829333333333334,
+      "end": 31.244666666666667,
+      "expected": "one",
+      "heard": "two"
+    }
+  },
+  {
+    "id": "museum-af_heart-clean",
+    "duration": 47.888,
+    "asr_seconds": 1.547000000020489,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "twelve",
+        "heard": "12",
+        "start": 23.1,
+        "end": 26.36
+      }
+    ],
+    "fault": null
+  },
+  {
+    "id": "museum-af_heart-omission",
+    "duration": 41.238,
+    "asr_seconds": 1.4219999999040738,
+    "findings": [
+      {
+        "kind": "delete",
+        "expected": "a volunteer carefully photographed every piece before",
+        "heard": "",
+        "start": 15.3,
+        "end": 18.78
+      },
+      {
+        "kind": "delete",
+        "expected": "conservation team began putting them back together the",
+        "heard": "",
+        "start": 15.899999999999999,
+        "end": 19.099999999999998
+      },
+      {
+        "kind": "replace",
+        "expected": "twelve",
+        "heard": "12",
+        "start": 16.44,
+        "end": 19.7
+      }
+    ],
+    "fault": {
+      "start": 17.347333333333335,
+      "end": 17.347333333333335,
+      "expected": "A volunteer carefully photographed every piece before the conservation team began putting them back together.",
+      "heard": ""
+    }
+  },
+  {
+    "id": "museum-af_heart-repetition",
+    "duration": 53.15133333333333,
+    "asr_seconds": 4.797000000020489,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "twelve",
+        "heard": "12",
+        "start": 23.1,
+        "end": 26.36
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "you can see a thin line near",
+        "start": 33.62,
+        "end": 38.02
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "base where a missing piece was replaced with plain material the",
+        "start": 35.14,
+        "end": 41.98
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "we'll see you next 8",
+        "start": 51.0,
+        "end": 53.15133333333333
+      }
+    ],
+    "fault": {
+      "start": 35.164,
+      "end": 40.42733333333334,
+      "expected": "",
+      "heard": "You can see a thin line near the base where a missing piece was replaced with plain material."
+    }
+  },
+  {
+    "id": "museum-af_heart-substitution",
+    "duration": 48.016,
+    "asr_seconds": 1.547000000020489,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "blue",
+        "heard": "green",
+        "start": 5.02,
+        "end": 8.219999999999999
+      },
+      {
+        "kind": "replace",
+        "expected": "twelve",
+        "heard": "12",
+        "start": 23.22,
+        "end": 26.48
+      }
+    ],
+    "fault": {
+      "start": 6.458,
+      "end": 11.657333333333334,
+      "expected": "blue",
+      "heard": "green"
+    }
+  },
+  {
+    "id": "museum-am_michael-clean",
+    "duration": 52.496,
+    "asr_seconds": 1.875,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "twelve",
+        "heard": "12",
+        "start": 25.06,
+        "end": 28.36
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "the",
+        "start": 47.58,
+        "end": 50.78
+      }
+    ],
+    "fault": null
+  },
+  {
+    "id": "museum-am_michael-omission",
+    "duration": 45.504666666666665,
+    "asr_seconds": 1.3900000000139698,
+    "findings": [
+      {
+        "kind": "delete",
+        "expected": "a volunteer carefully photographed every piece before",
+        "heard": "",
+        "start": 16.84,
+        "end": 20.38
+      },
+      {
+        "kind": "delete",
+        "expected": "conservation team began putting them back together the",
+        "heard": "",
+        "start": 17.48,
+        "end": 20.68
+      },
+      {
+        "kind": "replace",
+        "expected": "twelve",
+        "heard": "12",
+        "start": 18.06,
+        "end": 21.4
+      }
+    ],
+    "fault": {
+      "start": 18.904666666666667,
+      "end": 18.904666666666667,
+      "expected": "A volunteer carefully photographed every piece before the conservation team began putting them back together.",
+      "heard": ""
+    }
+  },
+  {
+    "id": "museum-am_michael-repetition",
+    "duration": 58.54866666666667,
+    "asr_seconds": 1.9059999999590218,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "twelve",
+        "heard": "12",
+        "start": 25.06,
+        "end": 28.42
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "you can see a thin line near the base where a missing piece was replaced with plain material",
+        "start": 31.08,
+        "end": 39.3
+      }
+    ],
+    "fault": {
+      "start": 38.59866666666667,
+      "end": 44.65133333333333,
+      "expected": "",
+      "heard": "You can see a thin line near the base where a missing piece was replaced with plain material."
+    }
+  },
+  {
+    "id": "museum-am_michael-substitution",
+    "duration": 52.56,
+    "asr_seconds": 1.8599999999860302,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "blue",
+        "heard": "green",
+        "start": 5.62,
+        "end": 8.82
+      },
+      {
+        "kind": "replace",
+        "expected": "twelve",
+        "heard": "12",
+        "start": 25.12,
+        "end": 28.4
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "the",
+        "start": 47.64,
+        "end": 50.84
+      }
+    ],
+    "fault": {
+      "start": 7.034,
+      "end": 12.681333333333333,
+      "expected": "blue",
+      "heard": "green"
+    }
+  },
+  {
+    "id": "backup-af_heart-clean",
+    "duration": 48.101333333333336,
+    "asr_seconds": 1.562000000034459,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "in",
+        "heard": "into",
+        "start": 30.759999999999998,
+        "end": 34.1
+      },
+      {
+        "kind": "delete",
+        "expected": "to",
+        "heard": "",
+        "start": 31.1,
+        "end": 34.300000000000004
+      }
+    ],
+    "fault": null
+  },
+  {
+    "id": "backup-af_heart-omission",
+    "duration": 42.902,
+    "asr_seconds": 1.5160000000614673,
+    "findings": [
+      {
+        "kind": "delete",
+        "expected": "open several copied files on another computer to check that they can actually be read",
+        "heard": "",
+        "start": 16.26,
+        "end": 19.56
+      },
+      {
+        "kind": "replace",
+        "expected": "in",
+        "heard": "into",
+        "start": 25.52,
+        "end": 28.88
+      },
+      {
+        "kind": "delete",
+        "expected": "to",
+        "heard": "",
+        "start": 25.88,
+        "end": 29.08
+      }
+    ],
+    "fault": {
+      "start": 18.136666666666667,
+      "end": 18.136666666666667,
+      "expected": "Open several copied files on another computer to check that they can actually be read.",
+      "heard": ""
+    }
+  },
+  {
+    "id": "backup-af_heart-repetition",
+    "duration": 53.620666666666665,
+    "asr_seconds": 1.6719999999040738,
+    "findings": [
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "into the accounts you will need later write down any software licenses and make sure you can",
+        "start": 30.759999999999998,
+        "end": 38.98
+      },
+      {
+        "kind": "replace",
+        "expected": "in to",
+        "heard": "sign into",
+        "start": 35.98,
+        "end": 39.62
+      }
+    ],
+    "fault": {
+      "start": 34.43866666666667,
+      "end": 39.958000000000006,
+      "expected": "",
+      "heard": "Write down any software licenses and make sure you can sign in to the accounts you will need later."
+    }
+  },
+  {
+    "id": "backup-af_heart-substitution",
+    "duration": 48.101333333333336,
+    "asr_seconds": 1.5940000000409782,
+    "findings": [
+      {
+        "kind": "replace",
+        "expected": "in",
+        "heard": "into",
+        "start": 30.759999999999998,
+        "end": 34.08
+      },
+      {
+        "kind": "delete",
+        "expected": "to",
+        "heard": "",
+        "start": 31.08,
+        "end": 34.28
+      },
+      {
+        "kind": "replace",
+        "expected": "unchanged",
+        "heard": "disconnected",
+        "start": 34.1,
+        "end": 37.8
+      }
+    ],
+    "fault": {
+      "start": 34.43866666666667,
+      "end": 40.982,
+      "expected": "unchanged",
+      "heard": "disconnected"
+    }
+  },
+  {
+    "id": "backup-am_michael-clean",
+    "duration": 53.776,
+    "asr_seconds": 3.452999999979511,
+    "findings": [
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "instead",
+        "start": 24.08,
+        "end": 27.3
+      },
+      {
+        "kind": "replace",
+        "expected": "in",
+        "heard": "into",
+        "start": 34.54,
+        "end": 37.84
+      },
+      {
+        "kind": "delete",
+        "expected": "to",
+        "heard": "",
+        "start": 34.84,
+        "end": 38.040000000000006
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "raised",
+        "start": 51.52,
+        "end": 53.776
+      }
+    ],
+    "fault": null
+  },
+  {
+    "id": "backup-am_michael-omission",
+    "duration": 47.787333333333336,
+    "asr_seconds": 1.4060000000754371,
+    "findings": [
+      {
+        "kind": "delete",
+        "expected": "open several copied files on another computer to check that they can actually be read",
+        "heard": "",
+        "start": 18.28,
+        "end": 21.64
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "usable",
+        "start": 24.3,
+        "end": 27.52
+      },
+      {
+        "kind": "replace",
+        "expected": "in",
+        "heard": "into",
+        "start": 28.56,
+        "end": 31.92
+      },
+      {
+        "kind": "delete",
+        "expected": "to",
+        "heard": "",
+        "start": 28.92,
+        "end": 32.120000000000005
+      }
+    ],
+    "fault": {
+      "start": 20.163333333333334,
+      "end": 20.163333333333334,
+      "expected": "Open several copied files on another computer to check that they can actually be read.",
+      "heard": ""
+    }
+  },
+  {
+    "id": "backup-am_michael-repetition",
+    "duration": 59.85,
+    "asr_seconds": 2.1089999999385327,
+    "findings": [
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "instead",
+        "start": 24.08,
+        "end": 27.3
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "into the accounts you will need later write down any software licenses and make sure you can",
+        "start": 34.54,
+        "end": 43.28
+      },
+      {
+        "kind": "replace",
+        "expected": "in to",
+        "heard": "sign into",
+        "start": 40.28,
+        "end": 43.92
+      },
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "asks",
+        "start": 49.82,
+        "end": 53.04
+      }
+    ],
+    "fault": {
+      "start": 38.492,
+      "end": 44.565999999999995,
+      "expected": "",
+      "heard": "Write down any software licenses and make sure you can sign in to the accounts you will need later."
+    }
+  },
+  {
+    "id": "backup-am_michael-substitution",
+    "duration": 53.605333333333334,
+    "asr_seconds": 2.047000000020489,
+    "findings": [
+      {
+        "kind": "insert",
+        "expected": "",
+        "heard": "instead",
+        "start": 24.08,
+        "end": 27.32
+      },
+      {
+        "kind": "replace",
+        "expected": "in",
+        "heard": "into",
+        "start": 34.54,
+        "end": 37.84
+      },
+      {
+        "kind": "delete",
+        "expected": "to",
+        "heard": "",
+        "start": 34.84,
+        "end": 38.040000000000006
+      },
+      {
+        "kind": "replace",
+        "expected": "unchanged",
+        "heard": "disconnected",
+        "start": 38.3,
+        "end": 42.06
+      }
+    ],
+    "fault": {
+      "start": 38.492,
+      "end": 45.782,
+      "expected": "unchanged",
+      "heard": "disconnected"
+    }
+  }
+]

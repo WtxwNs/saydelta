@@ -1,0 +1,611 @@
+[
+  {
+    "id": "garden-af_heart-clean",
+    "duration": 46.010666666666665,
+    "kind": "clean",
+    "fault": null,
+    "findings": []
+  },
+  {
+    "id": "garden-af_heart-omission",
+    "duration": 40.83266666666667,
+    "kind": "omission",
+    "fault": {
+      "start": 17.283333333333335,
+      "end": 17.283333333333335,
+      "expected": "They agreed to leave the wild flowers near the gate because bees were already visiting them.",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "omission",
+        "expected": "They agreed to leave the wild flowers near the gate because bees were already visiting them",
+        "heard": "",
+        "script_start": 295,
+        "script_end": 386,
+        "start": 15.3,
+        "end": 18.82,
+        "status": "review",
+        "recheck": {
+          "start": 10.3,
+          "end": 23.82,
+          "expected_context": "strip of land beside the fence they agreed to leave the wild flowers near the gate because bees were already visiting them each household would look after one",
+          "heard": " wheelbarrow and three shovels. The first job was to clear the stones from the  narrow strip of land beside the fence. Each household would look after one  small bed and help water the shared fruit trees during the summer before  planting anything.",
+          "seconds": 1.3599999999860302
+        }
+      }
+    ]
+  },
+  {
+    "id": "garden-af_heart-repetition",
+    "duration": 51.89266666666666,
+    "kind": "repetition",
+    "fault": {
+      "start": 33.86266666666667,
+      "end": 39.74466666666667,
+      "expected": "",
+      "heard": "Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs."
+    },
+    "findings": [
+      {
+        "kind": "repetition",
+        "expected": "",
+        "heard": "Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs",
+        "script_start": 595,
+        "script_end": 595,
+        "start": 26.1,
+        "end": 40.72,
+        "status": "review"
+      }
+    ]
+  },
+  {
+    "id": "garden-af_heart-substitution",
+    "duration": 46.096,
+    "kind": "substitution",
+    "fault": {
+      "start": 22.461333333333332,
+      "end": 28.066,
+      "expected": "one",
+      "heard": "two"
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "one",
+        "heard": "two",
+        "script_start": 420,
+        "script_end": 423,
+        "start": 22.42,
+        "end": 25.72,
+        "status": "review",
+        "recheck": {
+          "start": 17.42,
+          "end": 30.72,
+          "expected_context": "them each household would look after one small bed and help water the",
+          "heard": " They agreed to leave the wild flowers near the gate because bees were already visiting  them.  Each household would look after two small bed and help water the shared fruit trees during  the summer.  planting anything, they tested the soil.",
+          "seconds": 2.35999999998603
+        }
+      }
+    ]
+  },
+  {
+    "id": "garden-am_michael-clean",
+    "duration": 51.00266666666667,
+    "kind": "clean",
+    "fault": null,
+    "findings": []
+  },
+  {
+    "id": "garden-am_michael-omission",
+    "duration": 45.227333333333334,
+    "kind": "omission",
+    "fault": {
+      "start": 19.054,
+      "end": 19.054,
+      "expected": "They agreed to leave the wild flowers near the gate because bees were already visiting them.",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "omission",
+        "expected": "They agreed to leave the wild flowers near the gate because bees were already visiting them",
+        "heard": "",
+        "script_start": 295,
+        "script_end": 386,
+        "start": 17.04,
+        "end": 20.6,
+        "status": "review",
+        "recheck": {
+          "start": 12.04,
+          "end": 25.6,
+          "expected_context": "strip of land beside the fence they agreed to leave the wild flowers near the gate because bees were already visiting them each household would look after one",
+          "heard": " and three shovels. The first job was to clear the stones from the narrow strip  of land beside the fence. Each household would look after one small bed and help  water the shared fruit trees during the summer.",
+          "seconds": 1.3589999999385327
+        }
+      }
+    ]
+  },
+  {
+    "id": "garden-am_michael-repetition",
+    "duration": 57.546,
+    "kind": "repetition",
+    "fault": {
+      "start": 37.745333333333335,
+      "end": 44.28866666666667,
+      "expected": "",
+      "heard": "Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs."
+    },
+    "findings": [
+      {
+        "kind": "repetition",
+        "expected": "",
+        "heard": "Before planting anything, they tested the soil and marked a wide path for visitors who use wheelchairs",
+        "script_start": 595,
+        "script_end": 595,
+        "start": 29.76,
+        "end": 45.22,
+        "status": "review"
+      }
+    ]
+  },
+  {
+    "id": "garden-am_michael-substitution",
+    "duration": 51.04533333333333,
+    "kind": "substitution",
+    "fault": {
+      "start": 24.829333333333334,
+      "end": 31.244666666666667,
+      "expected": "one",
+      "heard": "two"
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "one small bed",
+        "heard": "two small beds",
+        "script_start": 420,
+        "script_end": 433,
+        "start": 24.84,
+        "end": 28.96,
+        "status": "review",
+        "recheck": {
+          "start": 19.84,
+          "end": 33.96,
+          "expected_context": "them each household would look after one small bed and help water the shared fruit",
+          "heard": " the wild flowers near the gate because bees were already visiting them. Each household would look  after two small bed and help water the shared fruit trees during the summer. Before planting  anything, they tested the saw",
+          "seconds": 1.3900000000139698
+        }
+      }
+    ]
+  },
+  {
+    "id": "museum-af_heart-clean",
+    "duration": 47.888,
+    "kind": "clean",
+    "fault": null,
+    "findings": []
+  },
+  {
+    "id": "museum-af_heart-omission",
+    "duration": 41.238,
+    "kind": "omission",
+    "fault": {
+      "start": 17.347333333333335,
+      "end": 17.347333333333335,
+      "expected": "A volunteer carefully photographed every piece before the conservation team began putting them back together.",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "omission",
+        "expected": "A volunteer carefully photographed every piece before the conservation team began putting them back together",
+        "heard": "",
+        "script_start": 293,
+        "script_end": 401,
+        "start": 15.440000000000001,
+        "end": 18.84,
+        "status": "review",
+        "recheck": {
+          "start": 10.440000000000001,
+          "end": 23.84,
+          "expected_context": "a century of dust and damp a volunteer carefully photographed every piece before the conservation team began putting them back together the repair took twelve days including",
+          "heard": " Village Bakery. Its handle was broken, but the painted pattern survived more than a century  of dust and damp. The repair took 12 days, including long periods when the glue had to  dry without being disturbed. You can see a th...",
+          "seconds": 1.422000000020489
+        }
+      }
+    ]
+  },
+  {
+    "id": "museum-af_heart-repetition",
+    "duration": 53.15133333333333,
+    "kind": "repetition",
+    "fault": {
+      "start": 35.164,
+      "end": 40.42733333333334,
+      "expected": "",
+      "heard": "You can see a thin line near the base where a missing piece was replaced with plain material."
+    },
+    "findings": [
+      {
+        "kind": "repetition",
+        "expected": "",
+        "heard": "You can see a thin line near the base, where a missing piece was replaced with plain material",
+        "script_start": 599,
+        "script_end": 599,
+        "start": 27.86,
+        "end": 41.52,
+        "status": "review"
+      }
+    ]
+  },
+  {
+    "id": "museum-af_heart-substitution",
+    "duration": 48.016,
+    "kind": "substitution",
+    "fault": {
+      "start": 6.458,
+      "end": 11.657333333333334,
+      "expected": "blue",
+      "heard": "green"
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "blue",
+        "heard": "green",
+        "script_start": 115,
+        "script_end": 119,
+        "start": 5.08,
+        "end": 8.36,
+        "status": "review",
+        "recheck": {
+          "start": 0.08000000000000007,
+          "end": 13.36,
+          "expected_context": "the people who made them the blue cup in the first cabinet was",
+          "heard": " Welcome to the museum workshop, where ordinary objects tell surprising stories about the people  who made them.  The green cup in the first cabinet was discovered beneath the floor of a village bakery.  Its handle was broken.",
+          "seconds": 1.4219999999040738
+        }
+      }
+    ]
+  },
+  {
+    "id": "museum-am_michael-clean",
+    "duration": 52.496,
+    "kind": "clean",
+    "fault": null,
+    "findings": []
+  },
+  {
+    "id": "museum-am_michael-omission",
+    "duration": 45.504666666666665,
+    "kind": "omission",
+    "fault": {
+      "start": 18.904666666666667,
+      "end": 18.904666666666667,
+      "expected": "A volunteer carefully photographed every piece before the conservation team began putting them back together.",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "omission",
+        "expected": "A volunteer carefully photographed every piece before the conservation team began putting them back together",
+        "heard": "",
+        "script_start": 293,
+        "script_end": 401,
+        "start": 17.02,
+        "end": 20.42,
+        "status": "review",
+        "recheck": {
+          "start": 12.02,
+          "end": 25.42,
+          "expected_context": "a century of dust and damp a volunteer carefully photographed every piece before the conservation team began putting them back together the repair took twelve days including",
+          "heard": " Its handle was broken, but the painted pattern survived more than a century of dust and damp.  The repair took 12 days, including long periods when the glue had to dry without being disturbed.",
+          "seconds": 1.265999999945052
+        }
+      }
+    ]
+  },
+  {
+    "id": "museum-am_michael-repetition",
+    "duration": 58.54866666666667,
+    "kind": "repetition",
+    "fault": {
+      "start": 38.59866666666667,
+      "end": 44.65133333333333,
+      "expected": "",
+      "heard": "You can see a thin line near the base where a missing piece was replaced with plain material."
+    },
+    "findings": [
+      {
+        "kind": "repetition",
+        "expected": "",
+        "heard": "You can see a thin line near the base, where a missing piece was replaced with plain material",
+        "script_start": 599,
+        "script_end": 599,
+        "start": 31.119999999999997,
+        "end": 45.78,
+        "status": "review"
+      }
+    ]
+  },
+  {
+    "id": "museum-am_michael-substitution",
+    "duration": 52.56,
+    "kind": "substitution",
+    "fault": {
+      "start": 7.034,
+      "end": 12.681333333333333,
+      "expected": "blue",
+      "heard": "green"
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "blue",
+        "heard": "green",
+        "script_start": 115,
+        "script_end": 119,
+        "start": 5.66,
+        "end": 8.98,
+        "status": "review",
+        "recheck": {
+          "start": 0.6600000000000001,
+          "end": 13.98,
+          "expected_context": "the people who made them the blue cup in the first cabinet was",
+          "heard": " the museum workshop, where ordinary objects tell surprising stories about the people who  made them.  The green cup in the first cabinet was discovered beneath the floor of a village bakery.  Its handle was broken.",
+          "seconds": 1.3589999999385327
+        }
+      }
+    ]
+  },
+  {
+    "id": "backup-af_heart-clean",
+    "duration": 48.101333333333336,
+    "kind": "clean",
+    "fault": null,
+    "findings": [
+      {
+        "kind": "insertion",
+        "expected": "",
+        "heard": "does",
+        "script_start": 451,
+        "script_end": 451,
+        "start": 24.0,
+        "end": 27.2,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 19.0,
+          "end": 32.2,
+          "expected_context": "progress bar reaching the end does not prove that every photograph or",
+          "heard": " copied files on another computer to check that they can actually be read.  A progress bar reaching the end does not prove that every photograph or  spreadsheet is usable.  Write down any software licenses and make sure you can",
+          "seconds": 1.3439999999245629
+        }
+      }
+    ]
+  },
+  {
+    "id": "backup-af_heart-omission",
+    "duration": 42.902,
+    "kind": "omission",
+    "fault": {
+      "start": 18.136666666666667,
+      "end": 18.136666666666667,
+      "expected": "Open several copied files on another computer to check that they can actually be read.",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "omission",
+        "expected": "Open several copied files on another computer to check that they can actually be read",
+        "heard": "",
+        "script_start": 327,
+        "script_end": 412,
+        "start": 16.34,
+        "end": 19.64,
+        "status": "review",
+        "recheck": {
+          "start": 11.34,
+          "end": 24.64,
+          "expected_context": "transfer has finished before disconnecting it open several copied files on another computer to check that they can actually be read a progress bar reaching the end",
+          "heard": " location. Copy the files to an external drive and wait until the transfer has  finished before disconnecting it. A progress bar reaching the end does not  prove that every photograph or spreadsheet is usable. Write down any...",
+          "seconds": 1.3439999999245629
+        }
+      }
+    ]
+  },
+  {
+    "id": "backup-af_heart-repetition",
+    "duration": 53.620666666666665,
+    "kind": "repetition",
+    "fault": {
+      "start": 34.43866666666667,
+      "end": 39.958000000000006,
+      "expected": "",
+      "heard": "Write down any software licenses and make sure you can sign in to the accounts you will need later."
+    },
+    "findings": [
+      {
+        "kind": "insertion",
+        "expected": "",
+        "heard": "does",
+        "script_start": 451,
+        "script_end": 451,
+        "start": 24.0,
+        "end": 27.2,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 19.0,
+          "end": 32.2,
+          "expected_context": "progress bar reaching the end does not prove that every photograph or",
+          "heard": " copied files on another computer to check that they can actually be read.  A progress bar reaching the end does not prove that every photograph or  spreadsheet is usable.  Write down any software licenses and make sure you can",
+          "seconds": 1.375
+        }
+      },
+      {
+        "kind": "repetition",
+        "expected": "",
+        "heard": "Write down any software licenses and make sure you can sign into the accounts you will need later",
+        "script_start": 509,
+        "script_end": 509,
+        "start": 27.58,
+        "end": 41.1,
+        "status": "review"
+      }
+    ]
+  },
+  {
+    "id": "backup-af_heart-substitution",
+    "duration": 48.101333333333336,
+    "kind": "substitution",
+    "fault": {
+      "start": 34.43866666666667,
+      "end": 40.982,
+      "expected": "unchanged",
+      "heard": "disconnected"
+    },
+    "findings": [
+      {
+        "kind": "insertion",
+        "expected": "",
+        "heard": "does",
+        "script_start": 451,
+        "script_end": 451,
+        "start": 24.0,
+        "end": 27.2,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 19.0,
+          "end": 32.2,
+          "expected_context": "progress bar reaching the end does not prove that every photograph or",
+          "heard": " copied files on another computer to check that they can actually be read.  A progress bar reaching the end does not prove that every photograph or  spreadsheet is usable.  Write down any software licenses and make sure you can",
+          "seconds": 1.327999999979511
+        }
+      },
+      {
+        "kind": "replacement",
+        "expected": "unchanged",
+        "heard": "disconnected",
+        "script_start": 636,
+        "script_end": 645,
+        "start": 34.3,
+        "end": 37.9,
+        "status": "review",
+        "recheck": {
+          "start": 29.299999999999997,
+          "end": 42.9,
+          "expected_context": "need later keep the original computer unchanged until the new one is working",
+          "heard": " any software licenses and make sure you can sign into the accounts you will need later.  Keep the original computer disconnected until the new one is working  and you have checked your most important tasks.  This short rehearsal is usually...",
+          "seconds": 1.375
+        }
+      }
+    ]
+  },
+  {
+    "id": "backup-am_michael-clean",
+    "duration": 53.776,
+    "kind": "clean",
+    "fault": null,
+    "findings": []
+  },
+  {
+    "id": "backup-am_michael-omission",
+    "duration": 47.787333333333336,
+    "kind": "omission",
+    "fault": {
+      "start": 20.163333333333334,
+      "end": 20.163333333333334,
+      "expected": "Open several copied files on another computer to check that they can actually be read.",
+      "heard": ""
+    },
+    "findings": [
+      {
+        "kind": "omission",
+        "expected": "Open several copied files on another computer to check that they can actually be read",
+        "heard": "",
+        "script_start": 327,
+        "script_end": 412,
+        "start": 18.4,
+        "end": 21.72,
+        "status": "review",
+        "recheck": {
+          "start": 13.399999999999999,
+          "end": 26.72,
+          "expected_context": "transfer has finished before disconnecting it open several copied files on another computer to check that they can actually be read a progress bar reaching the end",
+          "heard": " Copy the files to an external drive and wait until the transfer has finished before disconnecting it.  A progress bar reaching the end does not prove that every photograph or spreadsheet is usable.  Write...",
+          "seconds": 1.2969999999040738
+        }
+      }
+    ]
+  },
+  {
+    "id": "backup-am_michael-repetition",
+    "duration": 59.85,
+    "kind": "repetition",
+    "fault": {
+      "start": 38.492,
+      "end": 44.565999999999995,
+      "expected": "",
+      "heard": "Write down any software licenses and make sure you can sign in to the accounts you will need later."
+    },
+    "findings": [
+      {
+        "kind": "repetition",
+        "expected": "",
+        "heard": "Write down any software licenses and make sure you can sign into the accounts you will need later",
+        "script_start": 609,
+        "script_end": 609,
+        "start": 31.119999999999997,
+        "end": 45.76,
+        "status": "review"
+      },
+      {
+        "kind": "replacement",
+        "expected": "been",
+        "heard": "being",
+        "script_start": 821,
+        "script_end": 825,
+        "start": 57.18,
+        "end": 59.85,
+        "status": "not_reproduced",
+        "recheck": {
+          "start": 52.18,
+          "end": 59.85,
+          "expected_context": "project after the old drive has been erased",
+          "heard": " This short rehearsal is usually easier than discovering a missing project after the old  drive has been erased.",
+          "seconds": 1.0939999999245629
+        }
+      }
+    ]
+  },
+  {
+    "id": "backup-am_michael-substitution",
+    "duration": 53.605333333333334,
+    "kind": "substitution",
+    "fault": {
+      "start": 38.492,
+      "end": 45.782,
+      "expected": "unchanged",
+      "heard": "disconnected"
+    },
+    "findings": [
+      {
+        "kind": "replacement",
+        "expected": "unchanged",
+        "heard": "disconnected",
+        "script_start": 636,
+        "script_end": 645,
+        "start": 38.54,
+        "end": 42.16,
+        "status": "review",
+        "recheck": {
+          "start": 33.54,
+          "end": 47.16,
+          "expected_context": "need later keep the original computer unchanged until the new one is working",
+          "heard": " licenses and make sure you can sign into the accounts you will need later. Keep  the original computer disconnected until the new one is working and you have  checked your most important tasks. This short rehearsal",
+          "seconds": 1.297000000020489
+        }
+      }
+    ]
+  }
+]
