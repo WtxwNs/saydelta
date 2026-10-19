@@ -8,11 +8,13 @@ Built for creators reviewing ordinary-vocabulary, synthesized English narration.
 
 ![An actual review showing one versus two](docs/review-desktop.png)
 
-**Try without installing:** download and open [the self-contained example](examples/garden-review-v2.html) in your browser. Its 47-second synthetic recording has three disclosed, deliberate faults: a missing sentence, a changed number and a repeated sentence. [Original audio](examples/garden.wav), [script](examples/garden.txt), [edit record](examples/edits.json).
+**Try without installing:** download and open [the self-contained example](https://github.com/WtxwNs/saydelta/releases/download/v0.1.0/garden-review-v2.html) in your browser. Its 47-second synthetic recording has three disclosed, deliberate faults: a missing sentence, a changed number and a repeated sentence. [Original audio](examples/garden.wav), [script](examples/garden.txt), [edit record](examples/edits.json).
 
 [40-second walkthrough](docs/walkthrough.mp4) · [中文快速入门](docs/quickstart.zh-CN.md) · [Validation and counterexamples](docs/validation.md)
 
 The walkthrough uses edited still captures of actual browser operations, held for reading, with no audio; it is not real-time processing footage. Open the report to hear the actual recording.
+
+[Download the preview release](https://github.com/WtxwNs/saydelta/releases/tag/v0.1.0) — source ZIP, Python wheel and standalone example.
 
 ## Start locally
 
@@ -61,6 +63,6 @@ Listening end to end remains the trustworthy baseline. ASR plus a text diff can 
 
 ## Development status
 
-Pre-release. The real recognition-to-report path, clean package installation and offline inference have been independently reproduced; the original automatic model download failed on this network and prompted the explicit download command above. See the [independent review](research/independent-review.md) and [project state](PROJECT_STATUS.md). Do not treat research examples as a guarantee for your audio. Publication and real-user adoption remain unverified.
+Pre-release. The real recognition-to-report path, clean package installation and offline inference have been independently reproduced; the original automatic model download failed on this network and prompted the explicit download command above. See the [independent review](research/independent-review.md) and [project state](PROJECT_STATUS.md). Do not treat research examples as a guarantee for your audio. The public repository is available; real-user adoption remains unverified.
 
 MIT source license; separately installed dependencies have their own licenses. See [third-party sources](THIRD_PARTY.md).
