@@ -4,7 +4,7 @@
 
 Saydelta compares an English voiceover with its script and creates a single, offline HTML review. Click a suspected missing sentence, repeated passage or changed word; hear the context; record whether it needs another take. Send the same report to a collaborator without setting up a server.
 
-Built for creators reviewing ordinary-vocabulary, synthesized English narration. It flags recognition differences, **not verified mistakes**. Names, accents and noisy or human audiobook recordings can produce many false alarms. It does not assess pronunciation, emotion, clipping or overall sound quality.
+Built for creators reviewing ordinary-vocabulary, synthesized English narration.
 
 ![An actual review showing one versus two](docs/review-desktop.png)
 
@@ -31,7 +31,7 @@ saydelta check examples/garden.wav examples/garden.txt --model models/small.en -
 
 Open `review.html` in a current browser. The script is UTF-8 plain text; WAV, MP3 and other formats supported by the bundled decoder are accepted. CPU is the default; no GPU or external ffmpeg executable is required. `fetch-model` downloads the free `small.en` recognition model (about 484 MB), in addition to Python dependencies, using standard verified HTTPS with progress and up to three attempts per file. Run it once into an empty folder, then reuse that folder. Download time is separate from recognition time.
 
-Replace the two example paths with your own recording and script. On the tested Windows machine the example's recognition plus rechecks took about 7 seconds, excluding model loading, downloads, decoding and report encoding. This is an example measurement, not a hardware-independent promise.
+Replace the two example paths with your own recording and script. On the tested Windows machine the example's recognition plus rechecks took about 7 seconds, excluding model loading, downloads, decoding and report encoding.
 
 Windows PowerShell can block activation scripts. You do not need to change that policy: run `.venv\Scripts\python.exe -m pip install -e ".[asr]"`, then use `.venv\Scripts\saydelta.exe` instead of `saydelta` in the two commands above. On other platforms the equivalent direct executable is `.venv/bin/saydelta`.
 
@@ -41,7 +41,7 @@ For an already downloaded CTranslate2 model:
 saydelta check recording.wav script.txt --model /path/to/small.en --offline -o review.html
 ```
 
-Files are limited to 20 minutes, 512 MB and 100,000 script characters. Split longer work into chapters. Existing reports are never overwritten. Recognition needs available CPU and memory; Windows with Python 3.12 and 3.14 has been exercised. Other platforms are not yet verified.
+Files are limited to 20 minutes, 512 MB and 100,000 script characters. Split longer work into chapters.
 
 If a download fails, the error lists completed files. Retry into a new empty folder after checking the connection; no existing model files are overwritten. Alternatively obtain `config.json`, `tokenizer.json`, `vocabulary.txt` and `model.bin` from the [official small.en files](https://huggingface.co/Systran/faster-whisper-small.en/tree/main) and put them together in one folder. TLS verification remains enabled. Omitting `--model` uses faster-whisper's own download/cache path; that path failed with an SSL EOF in the independent check on this network, so explicit model preparation is recommended.
 
@@ -53,16 +53,15 @@ If a download fails, the error lists completed files. Retry into a new empty fol
 - Share the HTML and, if needed, the decisions JSON. The HTML contains the full script and a compressed mono listening copy of the recording. Treat it as the recording itself when deciding whom to share with.
 - **Rechecks** retains discrepancies that were not reproduced in a second local recognition pass. A clear inbox does not certify a correct recording.
 
-The report makes no network requests and uses no hosted assets, accounts or telemetry. Audio recognition happens locally. Model retrieval contacts the model host only when needed; use `--offline` to prohibit it. Original audio is never modified. The embedded MP3 is for word review, not mastering.
 
 ## Why another tool?
 
 Listening end to end remains the trustworthy baseline. ASR plus a text diff can reveal the same word differences, but you must find and track them in the recording. Saydelta combines timestamped listening, review decisions, notes and a portable file.
 
-[TTSProof](https://github.com/Mormolykos/ttsproof) provides broader automatic audio checks and WER-based QA; integrated audiobook generators also provide QA within their generation workflow. Setting TTSProof's WER threshold to zero also flags the controlled changes in our comparison. Saydelta is a standalone human review workflow for recordings you already have. It does not claim a better speech recognizer or replace their signal-quality checks. Read the [paired comparison and failed human-audiobook test](docs/validation.md); no independent user adoption is claimed.
+[TTSProof](https://github.com/Mormolykos/ttsproof) provides broader automatic audio checks and WER-based QA; integrated audiobook generators also provide QA within their generation workflow. Setting TTSProof's WER threshold to zero also flags the controlled changes in our comparison. Saydelta is a standalone human review workflow for recordings you already have. Read the [paired comparison and failed human-audiobook test](docs/validation.md).
 
 ## Development status
 
-Pre-release. The real recognition-to-report path, clean package installation and offline inference have been independently reproduced; the original automatic model download failed on this network and prompted the explicit download command above. See the [independent review](research/independent-review.md) and [project state](PROJECT_STATUS.md). Do not treat research examples as a guarantee for your audio. The public repository is available; real-user adoption remains unverified.
+Pre-release. See the [independent review](research/independent-review.md) and [project state](PROJECT_STATUS.md).
 
 MIT source license; separately installed dependencies have their own licenses. See [third-party sources](THIRD_PARTY.md).
