@@ -1,0 +1,33 @@
+name: Share a real tryout
+description: Tell us whether Saydelta helped with your own recording.
+title: "Tryout: "
+body:
+  - type: markdown
+    attributes:
+      value: "Please do not upload private audio. Audio samples are optional and require permission to share."
+  - type: textarea
+    attributes:
+      label: Your task and setup
+      description: Recording type, approximate duration, operating system, Python version and recognition model.
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: How far did you get?
+      options:
+        - Installation or model download failed
+        - Generated a report but could not review it
+        - Completed a review of my own recording
+        - Used it for a second recording
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What helped or failed?
+      description: Useful findings, misleading flags, remaining manual work, or the exact error message.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Would you use it again?
+      description: Why or why not? Which tool or manual workflow would you otherwise use?

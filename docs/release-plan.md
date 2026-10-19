@@ -1,8 +1,8 @@
-# Release and first-user plan — not executed
+# Release and first-user plan
 
 ## Destinations checked on 2026-10-19
 
-1. **A public GitHub repository and release**, once the owner/account and publication are authorized. Primary audience: local TTS users who already have recordings and need an auditable review file. Include runnable inputs, offline example, wheel/source archive, the 40-second edited walkthrough and the failed human-audiobook result. No paid hosting is needed.
+1. **A public GitHub repository and release**, authorized by the human user on 2026-10-19 for WtxwNs/saydelta. Primary audience: local TTS users who already have recordings and need an auditable review file. Include runnable inputs, offline example, wheel/source archive, the 40-second edited walkthrough and the failed human-audiobook result. No paid hosting is needed.
 2. **Hacker News / Show HN** is potentially relevant to local tools, but its [general rules](https://news.ycombinator.com/newsguidelines.html) prohibit generated text and automated posting. [Show HN rules](https://news.ycombinator.com/showhn.html) also ask for personal involvement, something usable and no vote solicitation. Do not post this agent's generated copy there. If the human maintainer chooses to participate after personally trying the product, they must write their own submission and be available to discuss it. No submission is prepared for automated use.
 3. **r/LocalLLaMA** was researched as a TTS discussion source, but its [rules](https://www.reddit.com/r/LocalLLaMA/about/rules.json) disallow primarily generated code/copy and require relevance. It is not a release destination for this agent-built project under those rules.
 4. **r/TextToSpeech** is directly relevant, but its [rules](https://www.reddit.com/r/TextToSpeech/about/rules.json) prohibit self-promotion. Exclude it. A guessed LocalTTS rules endpoint returned 404; do not infer permission from missing rules.
