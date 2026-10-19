@@ -1,5 +1,7 @@
 # Release and first-user plan
 
+Publication completed on 2026-10-19: [public repository](https://github.com/WtxwNs/saydelta), [v0.1.0 preview with eight assets](https://github.com/WtxwNs/saydelta/releases/tag/v0.1.0). Public example download verified. No community outreach or real-user adoption claimed.
+
 ## Destinations checked on 2026-10-19
 
 1. **A public GitHub repository and release**, authorized by the human user on 2026-10-19 for WtxwNs/saydelta. Primary audience: local TTS users who already have recordings and need an auditable review file. Include runnable inputs, offline example, wheel/source archive, the 40-second edited walkthrough and the failed human-audiobook result. No paid hosting is needed.

@@ -1,6 +1,6 @@
 # Saydelta project status
 
-Updated 2026-10-19. Public GitHub publication authorized on 2026-10-19; publication in progress. Overall goal not achieved. Windows pre-release engineering path verified; public release and user adoption NOT verified.
+Updated 2026-10-19. Public repository and v0.1.0 preview published on 2026-10-19. Overall goal not achieved. Windows pre-release engineering path verified; public release and user adoption NOT verified.
 
 ## Current product and claim
 For creators reviewing ordinary-vocabulary synthesized English voiceovers, Saydelta turns script/recognition differences into timed listening and decisions in one offline HTML file. Costs: a ~484 MB model download, local processing, and human judgment. Detection itself is not exclusive: a transcript diff or TTSProof with WER threshold zero can flag the same words. The distinct workflow is passage audition, retained evidence, notes and portable review of existing recordings.
@@ -21,14 +21,10 @@ Use simple Python CLI + static HTML, CPU default, no server/account/telemetry. R
 ## Delivery and next action
 Source, English README, Chinese quickstart, real example, edited 40-second silent walkthrough, MIT license, third-party notices, source/wheel packages and specific release text are prepared. Independent review and its follow-up found no demonstrated engineering blocker for a labeled Windows pre-release within tested scope. Final artifacts are under dist/: wheel plus source tar.gz/zip, about 3.4 MB for the complete source/example bundle. Final build, source inspection and local Git snapshot completed before requesting publication authorization.
 
-Public GitHub account verified as WtxwNs; WtxwNs/saydelta was not found. Neither repository creation/publication nor outreach is authorized yet. Ask once for permission to create that public repository and publish this reviewed release; keep community posts separate. HN forbids generated/automated posts, LocalLLaMA excludes primarily generated copy/code, TextToSpeech prohibits self-promotion. Do not post there automatically.
+Public repository: https://github.com/WtxwNs/saydelta . Published preview: https://github.com/WtxwNs/saydelta/releases/tag/v0.1.0 . Human authorization received on 2026-10-19. Repository visibility PUBLIC, release draft=false and prerelease=true, eight assets confirmed uploaded. Unauthenticated public download of the example verified 785,534 bytes, three findings and 46.8 seconds of decodable audio. Community posts and private outreach remain unauthorized.
 
 No external user trial, repeat use, sharing or contribution observed. Next useful evidence after authorized release: voluntary installation outcomes, completed review of a user's own recording, usefulness of findings, and a second real task. No monitoring automation or outreach is authorized. Do not mark the overall goal complete based on internal acceptance.
 
-## Authorization-wait audit
-Previous goal turn made substantive progress: completed release preparation and requested publication authorization. This continuation found and reproduced an uncaught HTTP IncompleteRead download failure, fixed bounded retries/partial cleanup, and passed the added regression. No publication reply or outreach authorization received. Public release and actual-user evidence remain the same external dependency; the goal is not complete.
 
-Final blocked audit: the same missing publication authorization has persisted across the release-preparation turn and two automatic continuations. The previous continuation made progress by fixing the download failure. This continuation confirmed a clean Git state, current release artifacts, no public repository at the proposed destination, and a completed independent reviewer with no demonstrated engineering blocker within tested scope. No human authorization arrived. There is no pending engineering job whose completion can supply real-user evidence. Further publication or outreach requires user input; do not treat automatic goal continuations as consent. Mark the goal blocked pending that authorization, not complete.
-
-## Authorization received
-On 2026-10-19 the human user explicitly approved the previously proposed public WtxwNs/saydelta repository and first release. Repository/release publication is now authorized. This does not authorize private messages, community posts, or fabricated adoption. The prior authorization blocker is resolved.
+## Next evidence needed
+The publication blocker is resolved. Source/main and the v0.1.0 release are public. The source archive preserves the pre-publication preparation snapshot; current publication status is this file. The repository includes an opt-in real-tryout issue form. Wait for voluntarily provided feedback or further authorized distribution; do not invent users, add telemetry or automatically post to communities. First-user success, repeat use, sharing and contribution remain unverified, so the overall goal is not complete.
